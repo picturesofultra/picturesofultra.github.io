@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}
+All running videos - {{ SITENAME }}
+{% endblock %}
+
+{% block content %}
+<section id="index-content" class="section">
+    <h1 class="title">
+        {% block content_title %}All videos{% endblock %}
+    </h1>
+    {% for article in articles_page.object_list %}
+        {% if loop.cycle('odd', 'even') == 'odd' %}
+    <div class="columns is-desktop">
+        <div class="column">
+            {% include 'article_thumb.html' %}
+        </div>
+        {% if loop.last %}
+    </div>
+        {% endif %}
+        {% else %}
+        <div class="column">
+            {% include 'article_thumb.html' %}
+        </div>
+    </div>
+        {% endif %}
+    {% endfor %}
+
+{% if articles_page.has_other_pages() %}
+    {% include 'pagination.html' %}
+{% endif %}
+</section><!-- /#content -->
+{% endblock content %}
