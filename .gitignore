@@ -1,4 +1,3 @@
-secrets/*
-!secrets/.gitkeep
+secrets
 .env
 output
