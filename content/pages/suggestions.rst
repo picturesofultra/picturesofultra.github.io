@@ -15,8 +15,7 @@ tend to vanish from the web once their initial release campaign is over (if ther
 Running images keeps those films accessible for the viewing pleasure running and/or film fanatics everywhere.
 
 Do you think something is missing in Running Images ?
-**Thanks for telling me aout it** (I am still figuring out how you can
-send me your suggestions).
+**Thanks for telling me about it** through the `Running Images FB Group <https://www.facebook.com/groups/424096735618087>`_
 
 Firstly, some informations on what kind of films Running Images indexes.
 
@@ -26,16 +25,19 @@ What doesn't belong here :
   most of them are feature length movies easilly found on listcle articles titled like "the 10 best running movies",
   "the 123 movies about running you should see before you die", etc ...
 
-- Basic race reports and youtubber-made hand-held I-made-a-video-for-a-pair-or-shoes films
+- Basic race reports and youtubber-made hand-held I-made-a-video-for-a-pair-of-shoes films
   don't belong here neither.
+
+- Films on track races, or distances less than a marathon.
 
 What does belong :
 
 - Films that strive for originality, either in subject or form
+
 - Old race reports, or TV short features, films that because of when they were made
-  tell us something about days-past
+  tell us something about days past
 
 - Anything that seems to still be worth watching a few years/decades for now
 
-If in doubt, suggest it anyway.
+If in doubt, suggest it anyway : `Running Images FB Group <https://www.facebook.com/groups/424096735618087>`_
 
