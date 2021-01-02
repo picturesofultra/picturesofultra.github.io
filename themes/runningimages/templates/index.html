@@ -12,14 +12,14 @@ All running videos - {{ SITENAME }}
     {% for article in articles_page.object_list %}
         {% if loop.cycle('odd', 'even') == 'odd' %}
     <div class="columns is-desktop">
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
         {% if loop.last %}
     </div>
         {% endif %}
         {% else %}
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
     </div>

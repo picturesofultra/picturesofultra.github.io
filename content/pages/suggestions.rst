@@ -17,12 +17,12 @@ tend to vanish from the web once their initial release campaign is over (if ther
 Do you think something is missing in Pictures of Ultra ?
 **Thanks for telling me about it** through twitter `@picturesofultra <https://twitter.com/picturesofultra>`_
 
-Before doing so, here is informations on what kind of films Pictures of Ultra indexes.
+Before doing so, here is informations on what kind of films *Pictures of Ultra indexes*.
 
 What doesn't belong here :
 
 - Fiction films. For the moment no fictions are added to Pictures of Ultra. Though some great ones exist,
-  most of them are feature length movies easilly found on listcle articles titled like "the 10 best running movies",
+  most of them are feature length movies easilly found on listicle articles titled like "the 10 best running movies",
   "the 123 movies about running you should see before you die", etc ...
 
 - Basic race reports and hand-held gopro personnal accounts of races ; unless ... they're good.
@@ -33,8 +33,7 @@ What does belong :
 
 - Films that strive for originality, either in subject or form
 
-- Old race reports, or TV short features, films that because of when they were made
-  tell us something about days past
+- Old race reports or TV short features that because of when they were made tell us something about days past
 
 - Anything ultra-running related that seems to still be worth watching a few years/decades for now
 

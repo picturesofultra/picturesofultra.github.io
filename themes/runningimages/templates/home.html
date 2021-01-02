@@ -15,14 +15,14 @@
     {% for article in articles[:10] %}
         {% if loop.cycle('odd', 'even') == 'odd' %}
     <div class="columns is-desktop">
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
         {% if loop.last %}
     </div>
         {% endif %}
         {% else %}
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
     </div>
@@ -35,14 +35,14 @@
     {% for article in articles|selectattr("favorite", "equalto", "yes") %}
         {% if loop.cycle('odd', 'even') == 'odd' %}
     <div class="columns is-desktop">
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
         {% if loop.last %}
     </div>
         {% endif %}
         {% else %}
-        <div class="column">
+        <div class="column is-half">
             {% include 'article_thumb.html' %}
         </div>
     </div>
