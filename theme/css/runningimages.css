@@ -14,6 +14,11 @@ main section.section {
 }
 
 
+/* Home */
+main section#home-description h2 {
+    font-size: 1.2em;
+}
+
 /* Film item listings */
 
 
@@ -60,3 +65,4 @@ section#video-main-player {
 #tags-content ul {
     margin-bottom: 2em;
 }
+
