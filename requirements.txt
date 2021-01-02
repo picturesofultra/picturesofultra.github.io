@@ -3,6 +3,7 @@ pandas >= 1.0.0
 leven >= 1.0.4
 pycountry
 pelican
+ghp-import
 python-youtube
 requests>=2.22.0
 PyVimeo

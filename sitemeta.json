@@ -7,29 +7,27 @@
       "UTMB",
       "US Transcontinental",
       "La Diagonale des Fous",
-      "Appalachian Trail",
       "Badwater 135",
+      "John Muir Trail",
       "Leadville 100",
-      "John Muir Trail"
+      "Appalachian Trail"
     ],
     "people": [
       "Kilian Jornet",
       "Anton Krupicka",
       "Scott Jurek",
-      "Gary Robbins",
       "Fran\u00e7ois d'Haene",
+      "Gary Robbins",
+      "S\u00e9bastien Chaigneau",
+      "Ann Trason",
+      "Magdalena Boulet",
+      "Tarahumara",
       "David Horton",
+      "Jim Walmsley",
+      "Terry Fox",
       "Charlie Engle",
       "Timothy Olson",
-      "Tarahumara",
-      "Jim Walmsley",
-      "Fred Lebow",
-      "Ann Trason",
-      "Terry Fox",
-      "Nicky Spinks",
-      "Magdalena Boulet",
-      "S\u00e9bastien Chaigneau",
-      "Kathrine Switzer"
+      "Nicky Spinks"
     ],
     "sponsors": [
       "Salomon",
@@ -38,13 +36,13 @@
     ],
     "production": [
       "Billy Yang Films",
-      "Mouss Films",
       "JourneyFilm",
+      "Mouss Films",
       "The african attachment",
-      "L\u00b4Equipe",
       "Summit Fever Media",
-      "Alexis Berg",
-      "The Wandering Fever"
+      "L\u00b4Equipe",
+      "The Wandering Fever",
+      "Alexis Berg"
     ],
     "direction": [
       "Billy Yang",
@@ -52,11 +50,10 @@
       "\u00c9tienne Valentin",
       "JB Benna",
       "Alexis Berg",
-      "Jon Dunham",
-      "Ethan Newberry",
-      "Matt Green",
       "Aur\u00e9lien Delfosse",
-      "Elie Green"
+      "Ethan Newberry",
+      "Elie Green",
+      "Matt Green"
     ]
   }
 }
