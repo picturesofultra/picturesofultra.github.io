@@ -15,11 +15,12 @@ def article_generator_write_article(article_generator, content):
         'direction': []
     }
 
+
     for key in article_info.keys():
         if key not in content.metadata:
             continue
-        for name in content.metadata[key].split(';'):
-            article_info[key].append({'name': name, 'url': article_tags.get(name, None)})
+        for name in content.metadata[key].split(','):
+            article_info[key].append({'name': name, 'url': article_tags.get(name.strip(), None)})
 
     content.info_items = article_info
 

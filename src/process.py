@@ -14,8 +14,8 @@ TAG_RE = re.compile(r'<[^>]+>')
 
 
 def download_gspread():
-    gc = gspread.service_account(filename=os.path.join(BASEDIR, 'secrets', 'runningimages.key.json'))
-    sh = gc.open("Running Images")
+    gc = gspread.service_account(filename=os.path.join(BASEDIR, 'secrets', 'picturesofultra.key.json'))
+    sh = gc.open("Ultra stuffs")
     return pd.DataFrame(sh.sheet1.get_all_records())
 
 

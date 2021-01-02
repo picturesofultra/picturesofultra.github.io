@@ -8,8 +8,8 @@ PLUGINS = ['runningimages']
 
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = True
-AUTHOR = 'Rodolfo Ripado'
-SITENAME = 'Running Images'
+AUTHOR = 'Pictures Of Ultra'
+SITENAME = 'Pictures of Ultra'
 SITEURL = ''
 
 PATH = 'content'

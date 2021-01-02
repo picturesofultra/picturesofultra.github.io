@@ -1,5 +1,5 @@
-Where dreams go to die - Gary Robbins and The Barkley Marathons
-###############################################################
+Where dreams go to die
+######################
 
 :slug: where-dreams-go-to-die
 :date: 2020-12-31
