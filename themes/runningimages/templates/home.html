@@ -12,7 +12,7 @@
     </section>
     <section class="section">
     <h2 class="title is-2">Recently added</h2>
-    {% for article in articles[:10] %}
+    {% for article in (articles|sort(reverse=True,attribute='date'))[:10] %}
         {% if loop.cycle('odd', 'even') == 'odd' %}
     <div class="columns is-desktop">
         <div class="column is-half">

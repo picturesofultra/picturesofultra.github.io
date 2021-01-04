@@ -18,7 +18,7 @@ Where dreams go to die
 :people: Gary Robbins
 :production: The Ginger Runner
 :direction: Ethan Newberry
-:tags: The Barkley Marathons, Gary Robbins, Ethan Newberry
+:tags: The Barkley Marathons, Gary Robbins, The Ginger Runner, Ethan Newberry
 
 Where Dreams Go To Die is a documentary created by Ethan Newberry (The Ginger Runner) that follows Canadian ultrarunner, Gary Robbins, during his two attempts at completing The Barkley Marathons - a 100+ mile event many consider the toughest endurance run on Earth. Spanning more than 2 years, this journey is emotional, powerful and truly inspirational. Find out what it takes to attempt the impossible and the demons that follow. Learn the sacrifices that come with dedicating one's life to this endeavor. Follow our intimate look at why The Barkley is where dreams go to die.
 

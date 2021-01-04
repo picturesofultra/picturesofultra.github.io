@@ -17,7 +17,7 @@ The Long Haul: John Muir Trail (Hal Koerner and Mike Wolfe)
 :people: Hal Koerner, Mike Wolfe
 :production: JourneyFilm
 :direction: JB Benna
-:tags: John Muir Trail, JourneyFilm, JB Benna
+:tags: John Muir Trail, Mike Wolfe, JourneyFilm, JB Benna
 
 JB Benna's short film recounts the story of Ultramarathoners Mike Wolfe and Hal Koerner as they set out to run the John Muir Trail in 2013 and best the previously record of 3 Days, 14 hours. 
 

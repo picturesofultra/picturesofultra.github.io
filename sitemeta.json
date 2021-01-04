@@ -2,58 +2,69 @@
   "tags": {
     "events": [
       "Western States 100",
+      "UTMB",
       "The Barkley Marathons",
       "Hardrock 100",
-      "UTMB",
-      "US Transcontinental",
       "La Diagonale des Fous",
+      "US Transcontinental",
       "Badwater 135",
+      "Appalachian Trail",
       "John Muir Trail",
-      "Leadville 100",
-      "Appalachian Trail"
+      "Leadville 100"
     ],
     "people": [
-      "Kilian Jornet",
       "Anton Krupicka",
+      "Kilian Jornet",
       "Scott Jurek",
-      "Fran\u00e7ois d'Haene",
       "Gary Robbins",
-      "S\u00e9bastien Chaigneau",
+      "Fran\u00e7ois d'Haene",
+      "Jim Walmsley",
+      "Ryan Sandes",
+      "Charlie Engle",
+      "Mike Wolfe",
+      "Mike Foote",
       "Ann Trason",
+      "Nicky Spinks",
+      "S\u00e9bastien Chaigneau",
+      "Jeff Browning",
+      "Geoff Roes",
+      "Terry Fox",
+      "Timothy Olson",
       "Magdalena Boulet",
       "Tarahumara",
-      "David Horton",
-      "Jim Walmsley",
-      "Terry Fox",
-      "Charlie Engle",
-      "Timothy Olson",
-      "Nicky Spinks"
+      "David Horton"
     ],
     "sponsors": [
       "Salomon",
       "Inov-8",
-      "The North Face"
+      "The North Face",
+      "REI"
     ],
     "production": [
       "Billy Yang Films",
+      "The Wolpertinger",
       "JourneyFilm",
-      "Mouss Films",
       "The african attachment",
-      "Summit Fever Media",
+      "Mouss Films",
+      "The Ginger Runner",
+      "Alexis Berg",
       "L\u00b4Equipe",
       "The Wandering Fever",
-      "Alexis Berg"
+      "Summit Fever Media",
+      "Wandering Fever"
     ],
     "direction": [
       "Billy Yang",
       "Dean Leslie",
+      "Joel Wolpert",
       "\u00c9tienne Valentin",
+      "Ethan Newberry",
       "JB Benna",
       "Alexis Berg",
       "Aur\u00e9lien Delfosse",
-      "Ethan Newberry",
-      "Elie Green",
-      "Matt Green"
+      "Matt Green",
+      "Matt Trappe",
+      "Elie Green"
     ]
   }
 }

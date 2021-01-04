@@ -25,7 +25,8 @@ NAME_MAPS = {
 LANG_MAP = {
     'fr': 'French',
     'en': 'English',
-    'gr': 'Greek'
+    'gr': 'Greek',
+    'hu': 'Hungarian'
 }
 
 IMG_FORMATS = ['jpg']

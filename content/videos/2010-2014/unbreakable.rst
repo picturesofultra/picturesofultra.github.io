@@ -15,10 +15,10 @@ Unbreakable
 :player_url: https://www.youtube.com/watch?v=zy1as6CTYXI
 :favorite: yes
 :events: Western States 100
-:people: Anton Krupicka, Geof Rhodes, Kilian Jornet
+:people: Anton Krupicka, Geoff Roes, Kilian Jornet
 :production: JourneyFilm
 :direction: JB Benna
-:tags: Western States 100, Anton Krupicka, Kilian Jornet, JourneyFilm, JB Benna
+:tags: Western States 100, Anton Krupicka, Geoff Roes, Kilian Jornet, JourneyFilm, JB Benna
 
 Unbreakable: The Western States 100 follows the four lead men on this amazing journey. Hal Koerner, two time defending Western States champion, and running store entrepreneur from Ashland, Oregon. Geoff Roes, undefeated at the 100-mile distance, an organic chef from Juneau, Alaska. Anton Krupicka, undefeated in every ultramarathon he has ever started, a graduate student living in Boulder, Colorado. Kilian Jornet, the young mountain runner and two time Ultra-trail du Mont-Blanc champion, from Spain.
 

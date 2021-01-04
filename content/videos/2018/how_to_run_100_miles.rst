@@ -17,6 +17,7 @@ How To Run 100 Miles
 :sponsors: REI
 :production: Brendan Leonard
 :direction: Brendan Leonard
+:tags: REI
 
 In September 2017, I stepped up to the starting line of the Run Rabbit Run 100 in Steamboat Springs, Colorado, alongside my friend Jayson Sime. The race is a 102.9-mile ultramarathon with 20,000 feet of elevation gain, which is no small feat for a couple of guys who don’t know what they’re doing.
 
