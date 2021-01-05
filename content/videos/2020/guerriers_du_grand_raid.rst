@@ -17,7 +17,7 @@ Les guerriers du grand raid
 :events: La Diagonale des Fous
 :sponsors: La Clinique du Coureur
 :direction: Caroline Côté
-:tags: La Diagonale des Fous
+:tags: La Diagonale des Fous, Caroline Côté
 
 "En octobre 2019, La Clinique Du Coureur embarque dans un projet sans égal : envoyer plus d’une quarantaine de coureurs affronter le Grand Raid de la Réunion – un événement mythique qui fascine, et en fait frémir plus d’un.
 
