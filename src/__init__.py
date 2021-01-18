@@ -19,6 +19,7 @@ NAME_MAPS = {
         'transcon': { 'name': 'US Transcontinental' },
         'leadville': { 'name': 'Leadville 100' },
         'gr20': {'name': 'GR 20'},
+        'thehigh': {' name': 'La Ultra – The High' }
     }
 }
 
@@ -26,7 +27,9 @@ LANG_MAP = {
     'fr': 'French',
     'en': 'English',
     'gr': 'Greek',
-    'hu': 'Hungarian'
+    'hu': 'Hungarian',
+    'dk': 'Danish',
+    'it': 'Italian'
 }
 
 IMG_FORMATS = ['jpg']
