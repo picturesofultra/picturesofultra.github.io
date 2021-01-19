@@ -1,3 +1,5 @@
+__version__ = '0.1.0'
+
 import os
 
 TAG_MIN_COUNT = 2
@@ -29,7 +31,8 @@ LANG_MAP = {
     'gr': 'Greek',
     'hu': 'Hungarian',
     'dk': 'Danish',
-    'it': 'Italian'
+    'it': 'Italian',
+    'es': 'Spanish'
 }
 
 IMG_FORMATS = ['jpg']

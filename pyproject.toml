@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "picturesofultra"
+version = "0.1.0"
+description = ""
+authors = ["picturesofultra <bbird1888@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+gspread = "^3"
+pandas = "^1"
+leven = "^1"
+pycountry = "^20.7.3"
+pelican = "^4.5.4"
+ghp-import = "^1.0.0"
+requests = "^2.25.1"
+PyVimeo = "^1.1.0"
+python-youtube = "^0.6.4"
+python-dateutil = "^2.8.1"
+pytz = "^2020.5"
+
+[tool.poetry.dev-dependencies]
+black = "^20.8b1"
+isort = "^5.7.0"
+mypy = "^0.790"
+ipython = "^7.19.0"
+jedi = "0.17.2"
+parso = "0.7.1"
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

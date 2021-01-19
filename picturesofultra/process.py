@@ -7,19 +7,20 @@ import re
 import os
 import numpy as np
 import datetime as dt
+from typing import Union, Dict, Tuple, List, Any
 
 from . import *
 
 TAG_RE = re.compile(r'<[^>]+>')
 
 
-def download_gspread():
+def download_gspread() -> pd.DataFrame:
     gc = gspread.service_account(filename=os.path.join(BASEDIR, 'secrets', 'picturesofultra.key.json'))
     sh = gc.open("Ultra stuffs")
     return pd.DataFrame(sh.sheet1.get_all_records())
 
 
-def validate_non_empty(df, colname):
+def validate_non_empty(df: pd.DataFrame, colname: str) -> None:
     errs = df[df[colname].isna()]
     if not errs.empty:
         print(f'Found empty/wrong values in column {colname}')
@@ -27,29 +28,29 @@ def validate_non_empty(df, colname):
         raise RuntimeError(f'Empty values in critical column {colname}')
 
 
-def validate_unique(df, colname):
+def validate_unique(df: pd.DataFrame, colname: str) -> None:
     errs = df[df[colname].duplicated(keep=False)]
     if not errs.empty:
-        print(f'Found duplicate values in unique column {col}')
+        print(f'Found duplicate values in unique column {colname}')
         print(errs)
-        raise RuntimeError(f'Duplicate values in unique column {col}')
+        raise RuntimeError(f'Duplicate values in unique column {colname}')
 
 
-def validate_is_yesno(df, colname):
+def validate_is_yesno(df: pd.DataFrame, colname: str) -> None:
     errs = df[~df[colname].isin(['yes', 'no'])]
     if not errs.empty:
-        print(f'Found bad values in bool column {col}')
+        print(f'Found bad values in bool column {colname}')
         print(errs)
-        raise RuntimeError(f'Bad values in bool column {col}')
+        raise RuntimeError(f'Bad values in bool column {colname}')
 
 
-def remove_tags(text):
+def remove_tags(text: str) -> str:
     if not text:
         return text
     return TAG_RE.sub('', text).strip()
 
 
-def clean_gspread_data(orig_data):
+def clean_gspread_data(orig_data: pd.DataFrame) -> pd.DataFrame:
 
     data = orig_data.copy()
 
@@ -82,7 +83,8 @@ def clean_gspread_data(orig_data):
     validate_non_empty(data, 'slug')
     data['slug_fs'] = data.slug.apply(lambda x: x.lower())
     validate_unique(data, 'slug_fs')
-    def build_web_slug(idx, slug):
+
+    def build_web_slug(idx: int, slug: str) -> str:
         if re.match(r'^[0-9a-z\_]+$', slug) is None:
             raise RuntimeError(f'Invalid slug in col id == {idx} ({slug})')
         return slug.replace('_', '-')
@@ -91,7 +93,7 @@ def clean_gspread_data(orig_data):
 
     # Col created
     validate_non_empty(data, 'created')
-    def parse_created(row):
+    def parse_created(row: pd.Series) -> dt.datetime:
         try:
             return dt.datetime.strptime(row.created, "%Y/%m/%d")
         except Exception as err:
@@ -99,7 +101,7 @@ def clean_gspread_data(orig_data):
     data['created'] = data.apply(parse_created, axis=1)
 
     # Col duration
-    def parse_duration(row):
+    def parse_duration(row: pd.Series) -> Union[dt.timedelta, np.NaN]:
         if row.duration is np.NaN:
             return row.duration
         try:
@@ -110,7 +112,7 @@ def clean_gspread_data(orig_data):
     data['duration'] = data.apply(parse_duration, axis=1)
 
     # Col language
-    def parse_lang(idx, lang):
+    def parse_lang(idx: int, lang: str) -> Union[str, np.NaN]:
         if lang is np.NaN:
             return lang
         if lang not in LANG_MAP:
@@ -119,7 +121,7 @@ def clean_gspread_data(orig_data):
     data['language'] = data.apply(lambda row: parse_lang(row.id, row.language), axis=1)
 
     # Col country
-    def country_name(idx, code):
+    def country_name(idx: int, code: str) -> Union[str, np.NaN]:
         if code is np.NaN:
             return code
         cty = pycountry.countries.get(alpha_2=code)
@@ -132,7 +134,7 @@ def clean_gspread_data(orig_data):
     # Split into items
     get_name = lambda col, label: NAME_MAPS.get(col, {}).get(label, {}).get('name', label)
     for colname in ['events', 'people', 'sponsors', 'production', 'direction']:
-        data[colname] = data[colname].str.split(',').apply(lambda items: [get_name(colname, item.strip()) for item in np.unique(items)] if type(items) is list else items)
+        data[colname] = data[colname].str.split(',').apply(lambda items: [get_name(colname, item.strip()) for item in np.unique(items)] if type(items) is list else items) # type: ignore[no-untyped-call]
 
     # Col description
     validate_non_empty(data, 'description')
@@ -149,7 +151,7 @@ def clean_gspread_data(orig_data):
     data['favorite'] = data['favorite'].apply(lambda val: val == 'yes')
 
     # Add category info
-    def set_category(year):
+    def set_category(year: int) -> str:
         if year < 2000:
             return 'x-1999'
         elif year < 2005:
@@ -165,14 +167,14 @@ def clean_gspread_data(orig_data):
     return data
 
 
-def extract_keywords(data, similarity_threshold=3):
-    def item_table(data, colname):
+def extract_keywords(data: pd.DataFrame, similarity_threshold: int=3) -> Dict[str, Dict[str, Any]]:
+    def item_table(data: pd.DataFrame, colname:str) -> pd.DataFrame:
         items = pd.DataFrame(data[colname].dropna().explode().str.strip().value_counts())
         items.columns = ['counts']
         items['is_tag'] = items.counts.apply(lambda c: c >= TAG_MIN_COUNT)
         return items
 
-    def find_similar(items, similarity_threshold=3):
+    def find_similar(items: List[str], similarity_threshold: int=3) -> List[Tuple[str, str, float]]:
         itemnb = len(items)
         scores = [(items[i],items[j],levenshtein(items[i],items[j])) for i in range(itemnb) for j in range(i+1, itemnb)]
         return sorted([x for x in scores if x[2] <= similarity_threshold], key=lambda x: x[2])
@@ -203,7 +205,7 @@ def extract_keywords(data, similarity_threshold=3):
     return out_final
 
 
-def build_site_data():
+def build_site_data() -> Tuple[Dict[str, Any], Dict[str, Any]]:
     data = download_gspread()
     data_df = clean_gspread_data(data)
     keywords = extract_keywords(data_df)

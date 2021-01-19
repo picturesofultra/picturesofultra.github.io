@@ -5,12 +5,14 @@ import numpy as np
 import re
 import textwrap
 import json
+from typing import Dict, Any, Union, Optional, List
+import datetime as dt
 from .media import parse_stream_url
 
 from . import *
 
 
-def clean_content():
+def clean_content() -> None:
     articles_path = os.path.join(BASEDIR, 'content', 'videos')
     for item in os.listdir(articles_path):
         path = os.path.join(articles_path, item)
@@ -21,7 +23,7 @@ def clean_content():
         print(f'Removed:    {path}')
 
 
-def format_duration(tt):
+def format_duration(tt: dt.timedelta) -> str:
     hours, remainder = divmod(tt.total_seconds(), 3600)
     minutes, seconds = divmod(remainder, 60)
     out = []
@@ -36,7 +38,7 @@ def format_duration(tt):
     return ' '.join(out)
 
 
-def media_metas(video):
+def media_metas(video: Dict[str, Any]) -> Dict[str, str]:
     # Generate video links
     player = None
     link_vod = None
@@ -44,7 +46,7 @@ def media_metas(video):
 
     free = video['free_access'] if video['free_access'] is not np.NaN else False
 
-    def qualify_stream(link):
+    def qualify_stream(link: Union[np.NaN, str]) -> Dict[str, Any]:
         if link is np.NaN:
             return {'type': 'no_link'}
         linfo = parse_stream_url(link, link)
@@ -85,7 +87,7 @@ def media_metas(video):
     return out
 
 
-def video_build_metadata(video, keywords, images):
+def video_build_metadata(video: Dict[str, Any], keywords: Dict[str, Dict[str, Any]] , images: Optional[Dict[str, str]]) -> Dict[str, str]:
     metas = {}
     metas['slug'] = video['slug_web']
     metas['date'] = video['created'].strftime('%Y-%m-%d')
@@ -132,7 +134,7 @@ def video_build_metadata(video, keywords, images):
     return metas
 
 
-def to_video_page(video, keywords, images):
+def to_video_page(video: Dict[str, Any], keywords: Dict[str, Dict[str, Any]] , images: Optional[Dict[str, str]]) -> str:
 
     out = [video['title']]
     out.append('#'*len(video['title']))
@@ -148,7 +150,7 @@ def to_video_page(video, keywords, images):
     return '\n'.join(out)
 
 
-def build_site_content(videos, keywords, images):
+def build_site_content(videos: List[Dict[str, Any]], keywords: Dict[str, Dict[str, Any]] , images: Dict[str, Dict[str, str]]) -> None:
     clean_content()
 
     for video in videos:
@@ -169,6 +171,4 @@ def build_site_content(videos, keywords, images):
 
     with open(os.path.join(BASEDIR, 'sitemeta.json'), 'w') as f:
         json.dump({ 'tags': kwd_items }, f, indent=2)
-
-    return
 

@@ -3,7 +3,7 @@
 import os
 import json
 
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['picturesofultra/plugins']
 PLUGINS = ['runningimages']
 
 LOAD_CONTENT_CACHE = False
@@ -69,9 +69,10 @@ THEME_CATEGORIES = {
     '2017': { 'title': '2017' },
     '2018': { 'title': '2018' },
     '2019': { 'title': '2019' },
-    '2020': { 'title': '2020' }
+    '2020': { 'title': '2020' },
+    '2021': { 'title': '2021' }
 }
-THEME_CATEGORIES_ORDERED = ['x-1999', '2000-2004', '2005-2009', '2010-2014', '2015', '2016', '2017', '2018', '2019', '2020']
+THEME_CATEGORIES_ORDERED = ['x-1999', '2000-2004', '2005-2009', '2010-2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021']
 with open('sitemeta.json') as f:
     sitemeta = json.load(f)
 TAG_TYPES = sitemeta['tags']

@@ -6,6 +6,7 @@ import json
 import vimeo
 import urllib.parse as urlparse
 import re
+from typing import Dict, Optional, Union, Any, List
 
 from . import *
 
@@ -13,47 +14,50 @@ IMG_FORMATS = ['jpg', 'jpeg', 'gif', 'png']
 MIN_THUMB_WIDTH = 120
 
 
-def youtube_get_video(urldata):
+def youtube_get_video(urldata: Dict[str, str]) -> pyyoutube.VideoListResponse:
     with open(os.path.join(BASEDIR, 'secrets', 'youtube_api_key')) as f:
         yt_key = f.read()
     api = pyyoutube.Api(api_key=yt_key)
     return api.get_video_by_id(video_id=urldata['vid'])
 
 
-def vimeo_get_video(urldata):
+def vimeo_get_video(urldata: Dict[str, str]) -> Dict[str, Any]:
     with open(os.path.join(BASEDIR, 'secrets', 'vimeo.json')) as f:
         vm_creds = json.load(f)
     v = vimeo.VimeoClient(**vm_creds)
-    return v.get(f'https://api.vimeo.com/videos/{urldata["vid"]}').json()
+    return v.get(f'https://api.vimeo.com/videos/{urldata["vid"]}').json() # type: ignore[no-any-return]
 
 
-def parse_stream_url(video_id, ss):
+def parse_stream_url(video_id: Union[int,str], ss: str) -> Optional[Dict[str,str]]:
     out = None
     try:
         url = urlparse.urlparse(ss)
-        out = {}
         if 'youtube' in url.netloc:
-            out['type'] = 'youtube'
-            out['vid'] = urlparse.parse_qs(url.query)['v'][0]
-            out['url'] = url
+            out = {
+                'type': 'youtube',
+                'vid': urlparse.parse_qs(url.query)['v'][0]
+            }
+            #out['url'] = url
         elif 'vimeo' in url.netloc:
-            out['type'] = 'vimeo'
-            out['vid'] = re.match(r'.*vimeo\.com\/([0-9]+)$', f'{url.netloc}{url.path}').groups()[0]
-            out['url'] = url
+            out = {
+                'type': 'vimeo',
+                'vid': url.path.split('/')[-1]
+            }
+            #out['url'] = url
         elif 'dailymotion' in url.netloc:
-            out['type'] = 'dailymotion'
-            out['vid'] = url.path.split('/')[-1]
-            out['url'] = url
-        else:
-            out = None
+            out = {
+                'type': 'dailymotion',
+                'vid': url.path.split('/')[-1]
+            }
+            #out['url'] = url
     except Exception as err:
-        out = None
-        #raise RuntimeError(f"Invalid URL {ss} for video id={video_id}")
+        #out = None
+        raise RuntimeError(f"Invalid URL {ss} for video id={video_id}")
 
     return out
 
 
-def download_image(url, basepath, filename):
+def download_image(url: str, basepath: str, filename: str) -> str:
     # Extract extension:
     ext = urlparse.urlparse(url).path.split('/')[-1].split('.')[-1]
     if ext not in IMG_FORMATS :
@@ -68,7 +72,7 @@ def download_image(url, basepath, filename):
     return fname
 
 
-def images_get_from_links(video, img_basepath):
+def images_get_from_links(video: Dict[str, Any], img_basepath: str) -> Optional[Dict[str,str]]:
     # Get the image from main stream if supported, if not, get from trailer, if not, well fuck
     MIN_THUMB_WIDTH = 120
     v_images = None
@@ -101,7 +105,7 @@ def images_get_from_links(video, img_basepath):
             for pic in pictures:
                 if pic['width'] >= MIN_THUMB_WIDTH:
                     imgs.append(pic)
-            imgs.sort(key=lambda x: x['width'])
+            imgs.sort(key=lambda x: x['width']) # type: ignore[no-any-return]
             # Set URL w/o QS
             img_thumb = urlparse.urlparse(imgs[0]['link'])
             img_main = urlparse.urlparse(imgs[-1]['link'])
@@ -122,7 +126,7 @@ def images_get_from_links(video, img_basepath):
     return v_images
 
 
-def download_images(videos):
+def download_images(videos: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     images = {}
     images_basepath = os.path.join(BASEDIR, 'content', 'images')
     for video in videos:
@@ -144,11 +148,12 @@ def download_images(videos):
         elif 'thumb' in v_images and 'main' not in v_images:
             v_images['main'] = v_images['thumb']
         elif not v_images:
-            v_images = images_get_from_links(video, images_basepath)
+            retrieved = images_get_from_links(video, images_basepath)
+            if retrieved is not None:
+                v_images = retrieved
 
-        if v_images is not None:
+        if v_images:
             images[vslug] = v_images
 
     return images
-
 
