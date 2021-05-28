@@ -12,17 +12,17 @@ Video platform recommendation algorithms tend to put recent, sponsored
 and "inspiring" films - i.e. mainstream - forward, while older, independently financed or original ones
 tend to vanish from the web once their initial release campaign is over (if there ever was one).
 
-*Pictures of Ultra* aims to keep those films accessible for the viewing pleasure running and/or film fanatics everywhere.
+*Pictures of Ultra* aims to keep those films accessible for the viewing pleasure of running fanatics everywhere.
 
 Do you think something is missing in Pictures of Ultra ?
-**Thanks for telling me about it** through twitter `@picturesofultra <https://twitter.com/picturesofultra>`_
+**Thanks for telling me about it** through twitter `@picturesofultra <https://twitter.com/trailordie>`_
 
 Before doing so, here is informations on what kind of films *Pictures of Ultra indexes*.
 
 What doesn't belong here :
 
 - Fiction films. For the moment no fictions are added to Pictures of Ultra. Though some great ones exist,
-  most of them are feature length movies easilly found on listicle articles titled like "the 10 best running movies",
+  most of them are feature length movies easily found on listicle articles titled like "the 10 best running movies",
   "the 123 movies about running you should see before you die", etc ...
 
 - Basic race reports and hand-held gopro personnal accounts of races ; unless ... they're good.
@@ -37,5 +37,5 @@ What does belong :
 
 - Anything ultra-running related that seems to still be worth watching a few years/decades for now
 
-If in doubt, suggest it anyway : `@picturesofultra <https://twitter.com/picturesofultra>`_
+If in doubt, suggest it anyway : `@picturesofultra <https://twitter.com/trailordie>`_
 

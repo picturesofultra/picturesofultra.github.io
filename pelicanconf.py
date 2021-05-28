@@ -77,3 +77,7 @@ THEME_CATEGORIES_ORDERED = ['x-1999', '2000-2004', '2005-2009', '2010-2014', '20
 with open('sitemeta.json') as f:
     sitemeta = json.load(f)
 TAG_TYPES = sitemeta['tags']
+
+# Github custom domain : https://docs.getpelican.com/en/latest/tips.html#copy-static-files-to-the-root-of-your-site
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
