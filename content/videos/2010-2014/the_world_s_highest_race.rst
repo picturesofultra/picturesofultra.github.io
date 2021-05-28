@@ -12,9 +12,11 @@ The worlds' highest running race - 222km
 :player_vid: rckSwLcvAyM
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=rckSwLcvAyM
-:people: Lisa Tamali
+:events: La Ultra – The High
+:people: Lisa Tamati
 :production: Nalu Productions
 :direction: Wes Greene
+:tags: La Ultra – The High, Lisa Tamati
 
 Lisa Tamati takes you on a Himalayan adventure. 
 

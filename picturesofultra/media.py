@@ -34,16 +34,24 @@ def parse_stream_url(video_id: Union[int, str], ss: str) -> Optional[Dict[str, s
     try:
         url = urlparse.urlparse(ss)
         if "youtube" in url.netloc:
-            out = {"type": "youtube", "vid": urlparse.parse_qs(url.query)["v"][0]}
-            # out['url'] = url
-        elif "vimeo" in url.netloc:
-            out = {"type": "vimeo", "vid": url.path.split("/")[-1]}
-            # out['url'] = url
+            out = {
+                "type": "youtube",
+                "vid": urlparse.parse_qs(url.query)["v"][0],
+                "url": url.geturl()
+            }
+        elif "vimeo" in url.netloc and 'ondemand' not in url.path:
+            out = {
+                "type": "vimeo",
+                "vid": url.path.split("/")[-1],
+                "url": url.geturl()
+            }
         elif "dailymotion" in url.netloc:
-            out = {"type": "dailymotion", "vid": url.path.split("/")[-1]}
-            # out['url'] = url
+            out = {
+                "type": "dailymotion",
+                "vid": url.path.split("/")[-1],
+                "url": url.geturl()
+            }
     except Exception as err:
-        # out = None
         raise RuntimeError(f"Invalid URL {ss} for video id={video_id}")
 
     return out
@@ -133,7 +141,6 @@ def download_images(videos: List[Dict[str, Any]]) -> Dict[str, Dict[str, Any]]:
     images_basepath = os.path.join(BASEDIR, "content", "images")
     for video in videos:
         # Support multiple file formats
-        path = None
         vslug = video["slug_fs"]
         v_images = {}
 

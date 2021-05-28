@@ -18,7 +18,7 @@ Hardrunner
 :people: Dale Garland, Joe Grant, Julien Chorier, Kilian Jornet, Scott Jurek, Timothy Olson, Sébastien Chaigneau
 :production: Mouss Films
 :direction: Étienne Valentin
-:tags: Hardrock 100, Kilian Jornet, Scott Jurek, Timothy Olson, Sébastien Chaigneau, Mouss Films, Étienne Valentin
+:tags: Hardrock 100, Joe Grant, Kilian Jornet, Scott Jurek, Timothy Olson, Sébastien Chaigneau, Mouss Films, Étienne Valentin
 
 The Harkrock 100 is the perfect race to illustrate the difference between european ans US ultra-trail worlds. 
 

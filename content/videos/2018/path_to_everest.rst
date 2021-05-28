@@ -1,5 +1,5 @@
-Path to everest
-###############
+Summits of my life : Path to everest
+####################################
 
 :slug: path-to-everest
 :date: 2020-12-31
@@ -12,10 +12,11 @@ Path to everest
 :player_vid: cTb5_B0wSUQ
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=cTb5_B0wSUQ
+:link_vod: https://vimeo.com/ondemand/pathtoeveresteng/305016822
 :link_official: https://everest.summitsofmylife.com/
 :people: Kilian Jornet
 :direction: Marc Juan, Sébastien Montaz-Rosset, Josep Serra
-:tags: Kilian Jornet
+:tags: Kilian Jornet, Sébastien Montaz-Rosset
 
 When he was a child Kilian Jornet, the world's greatest ever mountain runner, made a list of all the races he wanted to win and all the mountains he dreamt of climbing.  
 

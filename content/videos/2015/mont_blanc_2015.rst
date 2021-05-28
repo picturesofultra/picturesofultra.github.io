@@ -18,7 +18,7 @@ Mont Blanc | CCC UTMB 2015
 :sponsors: Nike
 :production: Billy Yang Films
 :direction: Billy Yang
-:tags: UTMB, Billy Yang Films, Billy Yang
+:tags: UTMB, Tim Tollefson, Zach Miller, Billy Yang Films, Billy Yang
 
 On August 28, 2015 a small team of Nike athletes went overseas to Chamonix, France to compete in some of the biggest ultra endurance events in the world.
 

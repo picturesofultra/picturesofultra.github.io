@@ -13,6 +13,6 @@ Karl Meltzer: Made to be Broken
 :people: Karl Meltzer
 :sponsors: Red Bull
 :direction: Mat Katsolis
-:tags: Appalachian Trail
+:tags: Appalachian Trail, Karl Meltzer, Red Bull
 
 Ultrarunner Karl Meltzer has long dreamed of setting the speed record for crossing the USA's Appalachian Trail. This is his third and final attempt to run the 3,524km (2,188 miles) in record time.

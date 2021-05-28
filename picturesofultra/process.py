@@ -113,7 +113,7 @@ def clean_gspread_data(orig_data: pd.DataFrame) -> pd.DataFrame:
     data["created"] = data.apply(parse_created, axis=1)
 
     # Col duration
-    def parse_duration(row: pd.Series) -> Union[dt.timedelta, np.NaN]:
+    def parse_duration(row: pd.Series) -> Union[dt.timedelta, float]:
         if row.duration is np.NaN:
             return row.duration
         try:
@@ -127,7 +127,7 @@ def clean_gspread_data(orig_data: pd.DataFrame) -> pd.DataFrame:
     data["duration"] = data.apply(parse_duration, axis=1)
 
     # Col language
-    def parse_lang(idx: int, lang: str) -> Union[str, np.NaN]:
+    def parse_lang(idx: int, lang: str) -> Union[str, float]:
         if lang is np.NaN:
             return lang
         if lang not in LANG_MAP:
@@ -137,7 +137,7 @@ def clean_gspread_data(orig_data: pd.DataFrame) -> pd.DataFrame:
     data["language"] = data.apply(lambda row: parse_lang(row.id, row.language), axis=1)
 
     # Col country
-    def country_name(idx: int, code: str) -> Union[str, np.NaN]:
+    def country_name(idx: int, code: str) -> Union[str, float]:
         if code is np.NaN:
             return code
         cty = pycountry.countries.get(alpha_2=code)

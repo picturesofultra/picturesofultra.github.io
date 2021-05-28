@@ -8,6 +8,8 @@ La Barkley sans pitié
 :duration: 20 min
 :language: French
 :country: France
+:img_main: images/la_barkley_sans_pitie.main.jpg
+:img_thumb: images/la_barkley_sans_pitie.main.jpg
 :player_vid: x6gosg7
 :player_type: dailymotion
 :player_url: https://www.dailymotion.com/video/x6gosg7

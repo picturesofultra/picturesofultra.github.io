@@ -19,7 +19,7 @@ Transamericana with Rickey Gates running 3700 miles across America
 :sponsors: Salomon
 :production: The Wandering Fever
 :direction: Dean Leslie
-:tags: US Transcontinental, Salomon, The Wandering Fever, Dean Leslie
+:tags: US Transcontinental, Rickey Gates, Salomon, The Wandering Fever, Dean Leslie
 
 In a time of uncertain politics and a crescendo of differences, American Ultra-Runner Rickey Gates sets off on foot across America. 
 

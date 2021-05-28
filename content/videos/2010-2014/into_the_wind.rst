@@ -17,7 +17,7 @@ Into the wind
 :people: Terry Fox
 :production: ESPN
 :direction: Ezra Holland, Steve Nash
-:tags: Terry Fox
+:tags: Terry Fox, ESPN
 
 Into the Wind is a 2010 documentary film which chronicles the story of Terry Fox. At the age of 18, Fox was diagnosed with osteosarcoma. The cancer had taken over his right leg, which was then amputated six inches above the knee. However, three years later, Fox set out to raise funds for cancer research and raise awareness by running 30 miles a day from the Atlantic Ocean in Newfoundland to the Pacific Ocean in British Columbia, totaling over 4000 miles.
 

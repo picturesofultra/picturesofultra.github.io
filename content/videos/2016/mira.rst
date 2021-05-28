@@ -14,9 +14,11 @@ Mira
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=2PkoYwnSoFU
 :link_vod: https://vimeo.com/ondemand/mirafrench/176381621
+:link_official: http://lloydbelchervisuals.com/project/mira/
 :sponsors: National Geographic
-:production: lloydbelchervisuals
+:production: Lloyd Belcher Visuals
 :direction: Lloyd Belcher
+:tags: Lloyd Belcher Visuals, Lloyd Belcher
 
 Mira’ retrace le parcourt d’une jeune villageoise népalaise dont l’objectif est de devenir une coureuse mondialement reconnue.
 

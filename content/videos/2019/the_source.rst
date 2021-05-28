@@ -17,6 +17,7 @@ The source
 :people: Courtney Dauwalter
 :production: Dream Lenz Media
 :direction: Tim HIghman, Carrie HIghman
+:tags: Courtney Dauwalter
 
 The Source is a documentary film that explores elite ultra runner Courtney Dauwalter's source of will. How does the candy-loving, beer drinking athlete crush 200+ mile races, in some cases, beating all the men and the women? 
 

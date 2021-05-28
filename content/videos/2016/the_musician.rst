@@ -14,8 +14,8 @@ The Musician
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=DdH98vi3Vss
 :sponsors: Salomon
-:production: Wandering Fever
+:production: The Wandering Fever
 :direction: Dean Leslie
-:tags: Salomon, Wandering Fever, Dean Leslie
+:tags: Salomon, The Wandering Fever, Dean Leslie
 
 Ben Gibbard is the frontman for American alternative rock band “Death Cab for Cutie”, he also happens to love trail running.  We linked up with him for a week during DCFC’s 2015 US tour and got to know a bit more about his passion and love for the trails and music.

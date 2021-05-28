@@ -17,6 +17,6 @@ Run Free: The True Story of Caballo Blanco
 :people: Christopher McDougall, Scott Jurek, Tarahumara, Micah True
 :production: Noren Films
 :direction: Sterling Noren
-:tags: Scott Jurek, Tarahumara
+:tags: Christopher McDougall, Scott Jurek, Tarahumara, Micah True
 
 Run Free is a movie about Micah True (Caballo Blanco, or the White Horse), an American ultra runner who helped the Tarahumara Indians of Mexico preserve their traditional running culture by creating a 50-mile ultra marathon which combines aspects of traditional Tarahumara running with the ideology of modern ultra running.

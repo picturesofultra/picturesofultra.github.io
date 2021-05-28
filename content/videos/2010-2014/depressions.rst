@@ -17,7 +17,7 @@ depressions - a few moments from 30 miles in the canyon
 :people: Rob Krar
 :production: The Wolpertinger
 :direction: Joel Wolpert
-:tags: The Wolpertinger, Joel Wolpert
+:tags: Rob Krar, The Wolpertinger, Joel Wolpert
 
 Depressions in landscape & emotion.
 An unstaged, mid-run, terrestrial-based short with Rob Krar. Krar, new to ultra running, holds the speed record for the Grand Canyon rim-to-rim-to-rim and has quickly become a dominant force in American races.

@@ -14,9 +14,10 @@ LEADMAN: The Dave Mackey Story
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=D5zti8iBbRI
 :people: Dave Mackey
-:production: Billy Yang Films
-:direction: Billy Yang
-:tags: Billy Yang Films, Billy Yang
+:sponsors: Altra
+:production: Nine Mind, Billy Yang Films
+:direction: Matt Trappe, Billy Yang
+:tags: Dave Mackey, Altra, Nine Mind, Billy Yang Films, Matt Trappe, Billy Yang
 
 On May 23, 2015, the unimaginable happened to Altra Running and CamelBak athlete Dave Mackey on a routine training run. At the summit of Bear Peak, a giant boulder became dislodged sending Mackey tumbling down the mountain before it also landed on him crushing his left leg. 
 

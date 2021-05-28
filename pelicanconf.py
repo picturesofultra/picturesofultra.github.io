@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*- #
+# type: ignore
+
 import os
 import json
 
@@ -44,7 +45,7 @@ ARTICLE_ORDER_BY = "reversed-release_year"
 # Paths
 ARCHIVES_SAVE_AS = ''
 ARTICLE_PATHS = ['videos']
-ARTICLE_EXCLUDES: []
+ARTICLE_EXCLUDES = []
 ARTICLE_SAVE_AS = 'videos/{slug}.html'
 ARTICLE_URL = 'videos/{slug}.html'
 AUTHOR_SAVE_AS = ''

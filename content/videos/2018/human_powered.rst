@@ -17,5 +17,6 @@ Human powered
 :sponsors: Telus
 :production: Matt Cecil Visuals
 :direction: Matt Cecil
+:tags: Matt Cecil Visuals, Matt Cecil
 
 Every year, trail runners from around the world line up to test themselves at the grueling Finlayson Arm 100km on Vancouver Island. Human Powered looks beyond the finish line, into the community of dedicated volunteers who bring this event to life.

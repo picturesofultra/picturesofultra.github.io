@@ -16,6 +16,7 @@ Finding Traction
 :people: Nikki Kimball
 :production: Jaime Jacobsen
 :direction: Jaime Jacobsen
+:tags: Nikki Kimball
 
 Ultra Runner Nikki Kimball takes on the 273-mile Long Trail. 
 

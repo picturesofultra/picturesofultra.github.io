@@ -1,4 +1,4 @@
-coming home
+Coming home
 ###########
 
 :slug: coming-home

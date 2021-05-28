@@ -1,0 +1,20 @@
+UTMB 2005
+#########
+
+:slug: utmb-2005
+:date: 2021-01-06
+:summary: TV feature on Ultra Trail Tour du Mont Blanc 2005.
+:release_year: 2005
+:duration: 5 min
+:language: French
+:country: France
+:img_main: images/utmb_2005.main.jpg
+:img_thumb: images/utmb_2005.thumb.jpg
+:player_vid: u6gLcgj2vGo
+:player_type: youtube
+:player_url: https://www.youtube.com/watch?v=u6gLcgj2vGo
+:events: UTMB
+:production: France 2
+:tags: UTMB, France 2
+
+TV feature on Ultra Trail Tour du Mont Blanc 2005.

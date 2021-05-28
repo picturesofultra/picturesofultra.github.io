@@ -48,7 +48,7 @@ def media_metas(video: Dict[str, Any]) -> Dict[str, str]:
 
     free = video["free_access"] if video["free_access"] is not np.NaN else False
 
-    def qualify_stream(link: Union[np.NaN, str]) -> Dict[str, Any]:
+    def qualify_stream(link: Union[float, str]) -> Dict[str, Any]:
         if link is np.NaN:
             return {"type": "no_link"}
         linfo = parse_stream_url(link, link)
@@ -81,7 +81,7 @@ def media_metas(video: Dict[str, Any]) -> Dict[str, str]:
     if player is not None:
         out["player_vid"] = player["vid"]
         out["player_type"] = player["type"]
-        out["player_url"] = player["url"].geturl()
+        out["player_url"] = player["url"]
     if link_vod is not None:
         out["link_vod"] = link_vod
     if link_fm is not None:

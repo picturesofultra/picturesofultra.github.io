@@ -17,5 +17,6 @@ Brothers in the sand
 :events: Marathon des Sables
 :production: Cape Films
 :direction: Tom Magnus, Aegina Brahim
+:tags: Marathon des Sables
 
 Five siblings attempt to become the first family in history to complete the Marathon Des Sables. But the world's toughest foot race pushes them to confront much more than the landscape of the Sahara Desert, as they discover what their brotherhood means to them. Exploring depression, sibling rivalry, and - when one brother comes to the brink of failure - their bond as siblings.

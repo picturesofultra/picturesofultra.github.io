@@ -14,8 +14,10 @@ Goshen
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=_xeH0KAqiqI
 :link_official: https://www.goshenfilm.com/
+:people: Tarahumara
 :production: Dana & Sarah Films
 :direction: Sarah Zentz, Dana Richardson
+:tags: Tarahumara
 
 The Tarahumara tribe was made popular in Born to Run, a best-selling novel by Chris McDougall. GOSHEN is a powerful documentary depicting the diet and active lifestyle of the indigenous Tarahumara, a light-footed running tribe, who are striving to maintain their ancient culture against all odds.
 

@@ -1,0 +1,21 @@
+UTMB 2011
+#########
+
+:slug: utmb-2011
+:date: 2021-01-06
+:summary: Excellent TV feature on the 2011 UTMB.
+:release_year: 2011
+:duration: 49 min
+:language: French
+:country: France
+:img_main: images/utmb_2011.main.jpg
+:img_thumb: images/utmb_2011.thumb.jpg
+:player_vid: 6s307IHID00
+:player_type: youtube
+:player_url: https://www.youtube.com/watch?v=6s307IHID00
+:events: UTMB
+:people: Jez Bragg, Lizzy Hawker, Sébastien Chaigneau, Kilian Jornet
+:production: Eurosport
+:tags: UTMB, Lizzy Hawker, Sébastien Chaigneau, Kilian Jornet
+
+Excellent TV feature on the 2011 UTMB.

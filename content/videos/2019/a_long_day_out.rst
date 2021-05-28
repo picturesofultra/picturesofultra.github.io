@@ -16,7 +16,7 @@ A Long Day Out
 :people: Kilian Jornet
 :sponsors: Salomon
 :production: Lymbus
-:tags: Kilian Jornet, Salomon
+:tags: Kilian Jornet, Salomon, Lymbus
 
 The greatest adventure might be hidden in your own backyard. 
 

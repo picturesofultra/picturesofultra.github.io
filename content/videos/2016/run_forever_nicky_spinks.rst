@@ -17,6 +17,6 @@ Run Forever: The film of Nicky Spinks & The Double Bob Graham
 :people: Nicky Spinks
 :sponsors: Inov-8
 :direction: Nick Brown
-:tags: Nicky Spinks, Inov-8
+:tags: Bob Graham Round, Nicky Spinks, Inov-8
 
 the award-winning film about inspirational runner Nicky Spinks and her incredible attempt at the 132-mile Double Bob Graham Round.
