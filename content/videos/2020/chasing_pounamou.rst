@@ -3,7 +3,7 @@ Chasing Pounamou
 
 :slug: chasing-pounamou
 :date: 2021-01-31
-:summary: CHASING POUNAMU, an inspirational authentic story that follows a back of the pack runner, as he runs for redemption at the 2019 Tarawera 100 mile...
+:summary: An inspirational authentic story that follows a back of the pack runner, as he runs for redemption at the 2019 Tarawera 100 mile Ultramarathon. A...
 :release_year: 2020
 :duration: 30 min
 :language: English
@@ -19,5 +19,6 @@ Chasing Pounamou
 :direction: Aaron Smart
 :tags: Tarawera 100, Courtney Dauwalter, Ryan Sandes, Jeff Browning, Find Your Feet Films, Aaron Smart
 
-CHASING POUNAMU, an inspirational authentic story that follows a back of the pack runner, as he runs for redemption at the 2019 Tarawera 100 mile Ultramarathon.
- A moving and dramatic story of the everyday-man, interspersed with insights from the elites of global trail running. Chasing Pounamu will touch anyone that's ever got back up to try something that seemed impossible.
+An inspirational authentic story that follows a back of the pack runner, as he runs for redemption at the 2019 Tarawera 100 mile Ultramarathon.
+
+A moving and dramatic story of the everyday-man, interspersed with insights from the elites of global trail running. Chasing Pounamu will touch anyone that's ever got back up to try something that seemed impossible.

@@ -207,6 +207,7 @@ def extract_keywords(
             for i in range(itemnb)
             for j in range(i + 1, itemnb)
         ]
+        # TODO if both are len < threshold + 2 : do something
         return sorted(
             [x for x in scores if x[2] <= similarity_threshold], key=lambda x: x[2]
         )
