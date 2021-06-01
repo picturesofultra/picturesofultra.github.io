@@ -25,19 +25,18 @@ def clean_content() -> None:
 
 
 def format_duration(tt: dt.timedelta) -> str:
-    hours, remainder = divmod(tt.total_seconds(), 3600)
-    minutes, seconds = divmod(remainder, 60)
-    out = []
-    if hours > 0:
-        out.append(f"{int(hours)}h")
-    mins = 0
-    if minutes > 0:
-        mins = int(minutes)
-    if seconds > 30:
-        mins += 1
-    if mins > 0:
-        out.append(f"{mins} min")
-    return " ".join(out)
+    minutes, seconds = divmod(tt.total_seconds(), 60)
+    seconds = int(seconds)
+
+    if minutes >= 2:
+        minutes += round(seconds/60)
+        ret = f'{minutes} min'
+    else:
+        ret = f'{minutes} min'
+        if seconds != 0:
+            ret += f' {seconds} secs'
+
+    return ret
 
 
 def media_metas(video: Dict[str, Any]) -> Dict[str, str]:
