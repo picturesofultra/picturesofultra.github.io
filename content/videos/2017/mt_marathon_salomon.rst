@@ -5,7 +5,7 @@ Mt. Marathon - Salomon Running TV S05E06
 :date: 2021-01-22
 :summary: Every 4th of July thousands of people descend on the small harbour town of Seward, Alaska to witness one of the oldest, fastest, hardest, toughest…...
 :release_year: 2017
-:duration: 10 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/mt_marathon_salomon.main.jpg

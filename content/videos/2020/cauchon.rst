@@ -5,7 +5,7 @@ CAUCHON: answers from the woods
 :date: 2021-01-08
 :summary: In the midst of a summer riddled with uncertainty, Jean-François (Jeff) Cauchon, one of Canada’s top ultra trail running athletes attempts to set a...
 :release_year: 2020
-:duration: 14 min
+:duration: 
 :language: French
 :country: Canada
 :img_main: images/cauchon.main.jpg

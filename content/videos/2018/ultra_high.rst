@@ -5,7 +5,7 @@ Ultra High: Running at 18,000 Feet
 :date: 2021-01-11
 :summary: ULTRA HIGH is about the race to complete the 137-mile high altitude ultra marathon, crossing the two highest motorable passes of the Hymalayas....
 :release_year: 2018
-:duration: 1h 10 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/ultra_high.main.jpg

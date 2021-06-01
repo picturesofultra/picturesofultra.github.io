@@ -5,7 +5,7 @@ Moving forward
 :date: 2021-01-08
 :summary: Elite ultramarathon runner Zac Marion's first attempt of the Tarawera 100 mile ultra ended in a DNF when he was pulled from the course for medical...
 :release_year: 2020
-:duration: 5 min
+:duration: 
 :language: English
 :country: New Zealand
 :img_main: images/moving_forward.main.jpg

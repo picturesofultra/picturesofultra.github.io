@@ -3,9 +3,9 @@ Super-marathon du Mont Blanc 1988
 
 :slug: super-marathon-du-mt-blanc-1988
 :date: 2021-01-04
-:summary: TV feature on the FKT ont the out and back Chamonix-MontBlanc, broken 4 times the same year.
+:summary: TV feature on the FKT on the out and back Chamonix-MontBlanc, broken 4 times the same year.
 :release_year: 1988
-:duration: 6 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/super_marathon_du_mt_blanc_1988.main.png
@@ -17,4 +17,4 @@ Super-marathon du Mont Blanc 1988
 :people: Laurent Smagghe, Pierre Cusin, Jacques Berli
 :tags: Super-Marathon Mont Blanc, UTMB
 
-TV feature on the FKT ont the out and back Chamonix-MontBlanc, broken 4 times the same year.
+TV feature on the FKT on the out and back Chamonix-MontBlanc, broken 4 times the same year.

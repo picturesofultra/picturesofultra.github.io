@@ -5,7 +5,7 @@ White Sherpa
 :date: 2021-01-17
 :summary: Running. But running off the beaten track, that's freedom. Running across his land, running around the world, running over the peaks... That's what...
 :release_year: 2013
-:duration: 3 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/white_sherpa.main.jpg

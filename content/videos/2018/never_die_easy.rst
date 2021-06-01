@@ -5,7 +5,7 @@ Never Die Easy
 :date: 2020-12-31
 :summary: Dag Aabye is a septuagenarian Ultra Marathon champion who lives completely off the grid. Can two filmmakers track him down—and if so, what will...
 :release_year: 2018
-:duration: 14 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/never_die_easy.main.jpg

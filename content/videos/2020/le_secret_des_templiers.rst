@@ -5,7 +5,7 @@ Le secret des Templiers
 :date: 2020-12-31
 :summary: Le Festival des Templiers is one of the main trail events in France, and takes place in the region of the Grands Causses des Cévennes. In this...
 :release_year: 2020
-:duration: 12 min
+:duration: 
 :language: English
 :country: France
 :img_main: images/le_secret_des_templiers.main.jpg

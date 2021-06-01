@@ -5,7 +5,7 @@ Running America
 :date: 2020-12-31
 :summary: Charlie Engle (from Running the Sahara) and Ultra-Marathoner Marshall Ulrich press the human physical and mental strengths to their limits in a run...
 :release_year: 2008
-:duration: 1h 25 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/running_america.main.jpg

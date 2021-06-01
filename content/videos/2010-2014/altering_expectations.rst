@@ -5,7 +5,7 @@ Altering expectations - Kimberley Teshima & The Oregon Coast 50k
 :date: 2021-01-06
 :summary: On October 18th, 2014, Kimberley Teshima attempted to run her very first ultramarathon - The Oregon Coast 50k. Despite putting in long hours on the...
 :release_year: 2014
-:duration: 24 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/altering_expectations.main.jpg

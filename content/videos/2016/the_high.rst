@@ -5,7 +5,7 @@ The High: Making the Toughest Race on Earth
 :date: 2021-01-11
 :summary: In 2010, a group of extreme runners brought together by an adventure-obsessed race director mutually volunteer in a running experiment over the two...
 :release_year: 2016
-:duration: 1h 17 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_high.main.jpg

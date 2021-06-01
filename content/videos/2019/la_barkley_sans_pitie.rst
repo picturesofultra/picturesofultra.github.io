@@ -5,7 +5,7 @@ La Barkley sans pitié
 :date: 2020-12-31
 :summary: TV documentary on the Barkley Marathons.
 :release_year: 2019
-:duration: 20 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/la_barkley_sans_pitie.main.jpg

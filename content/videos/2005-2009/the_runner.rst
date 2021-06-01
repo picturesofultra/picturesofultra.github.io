@@ -5,7 +5,7 @@ The Runner: David Horton's 2700 Mile Run of the Pacific Crest Trail
 :date: 2020-12-31
 :summary: June 2005 - The Runner follows Extreme UltraRunner David Horton through the desert sun, the high snowbound mountain passes, the pain, the emotion,...
 :release_year: 2005
-:duration: 1h 18 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_runner.main.jpg

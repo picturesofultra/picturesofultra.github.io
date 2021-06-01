@@ -5,7 +5,7 @@ GRIT- Ultra-Trail du Tour du Mont-Blanc
 :date: 2021-01-09
 :summary: A truly epic view on the 2018 UTMB, where image, sound and silence are perfectly combined to make you feel why this race is so special.
 :release_year: 2019
-:duration: 8 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/grit_utmb.main.jpg

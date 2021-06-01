@@ -5,7 +5,7 @@ Run the Line: Retracing 43km of hidden railway
 :date: 2021-01-06
 :summary: Not really an ultra, but I couldn't resist adding this very inspiring adventure. Overgrown, farmed, pushed out, sold off and only half there, Beau...
 :release_year: 2019
-:duration: 24 min
+:duration: 
 :language: English
 :country: Australia
 :img_main: images/run_the_line.main.jpg

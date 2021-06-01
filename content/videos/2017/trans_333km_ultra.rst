@@ -5,7 +5,7 @@ Trans 333km
 :date: 2021-01-10
 :summary: Deep in the Sahara in one of the poorest and most dangerous countries on earth, an ultra marathon takes place. A 333km non stop running event...
 :release_year: 2017
-:duration: 1h
+:duration: 
 :language: German
 :country: Australia
 :img_main: images/trans_333km_ultra.main.jpg

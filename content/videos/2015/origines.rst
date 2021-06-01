@@ -5,7 +5,7 @@ Origines - Une traversée du GR4
 :date: 2020-12-31
 :summary: When trail running is a way to discover one's own back yard.
 :release_year: 2015
-:duration: 27 min
+:duration: 
 :language: English
 :country: France
 :img_main: images/origines.main.jpg

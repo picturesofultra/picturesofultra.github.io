@@ -5,7 +5,7 @@ A Long Day Out
 :date: 2020-12-31
 :summary: The greatest adventure might be hidden in your own backyard. Just outside your door you can put your shoes on and start running, and come back home...
 :release_year: 2019
-:duration: 12 min
+:duration: 
 :language: English
 :country: Norway
 :img_main: images/a_long_day_out.main.jpg

@@ -5,7 +5,7 @@ Balance
 :date: 2021-01-04
 :summary: Body language is a real expression philosophy of life and a way to reconnect with its deep nature. Mathieu confronts his fears, but especially the...
 :release_year: 2018
-:duration: 2 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/balance.main.jpg

@@ -5,7 +5,7 @@ Indulgence: 1000 Miles Under the Colorado Sky
 :date: 2020-12-31
 :summary: The film details his training for that year’s Leadville 100 and his philosophy on ultrarunning in general.
 :release_year: 2007
-:duration: 37 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/indulgence_1000.main.jpg

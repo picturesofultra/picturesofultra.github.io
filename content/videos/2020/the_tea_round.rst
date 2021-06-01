@@ -5,7 +5,7 @@ The Tea Round
 :date: 2021-01-12
 :summary: The Tea Round is the brain child of former George Fisher staff member Jacob Tonkin who linked together this exciting route. This is a 30 mile fell...
 :release_year: 2020
-:duration: 11 min
+:duration: 
 :language: English
 :country: United Kingdom
 :img_main: images/the_tea_round.main.jpg

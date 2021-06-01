@@ -5,7 +5,7 @@ Profiling HURT
 :date: 2020-12-31
 :summary: Profiling HURT follows the path of ultra runner Mark Gilligan and his work to return to the race for a second year, to achieve what he couldn't in...
 :release_year: 2011
-:duration: 35 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/profiling_hurt.main.jpg

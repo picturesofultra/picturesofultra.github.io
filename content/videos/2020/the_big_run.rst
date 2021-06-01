@@ -5,7 +5,7 @@ The big run
 :date: 2021-01-31
 :summary: A short documentary about Liam Mcvarnock's attempt to run 176km in under 24 hours, raising over $12,000 for Big Brothers Big Sisters. He ran from...
 :release_year: 2020
-:duration: 12 min
+:duration: 
 :language: English
 :country: Canada
 :img_main: images/the_big_run.main.jpg

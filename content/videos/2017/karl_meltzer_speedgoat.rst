@@ -5,7 +5,7 @@ Karl Meltzer is The Speedgoat
 :date: 2021-01-06
 :summary: Karl Meltzer has been running for a very long time and through all the highs and lows, it's a passion that has truly paid off.
 :release_year: 2017
-:duration: 20 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/karl_meltzer_speedgoat.main.jpg

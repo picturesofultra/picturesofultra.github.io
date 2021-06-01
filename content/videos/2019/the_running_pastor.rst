@@ -5,7 +5,7 @@ The running pastor
 :date: 2020-12-31
 :summary: Sverri Steinholm grew up chasing sheep up and down the rugged, exposed slopes of the Faroe Islands. Today he is a pastor of the Lutheran Church,...
 :release_year: 2019
-:duration: 8 min
+:duration: 
 :language: English
 :country: United Kingdom
 :img_main: images/the_running_pastor.main.jpg

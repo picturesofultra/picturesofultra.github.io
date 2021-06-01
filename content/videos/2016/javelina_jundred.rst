@@ -5,7 +5,7 @@ Javelina Jundred
 :date: 2021-01-31
 :summary: Cool feature publicity film on the Javelina Jundred race in the US.
 :release_year: 2016
-:duration: 21 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/javelina_jundred.main.jpg

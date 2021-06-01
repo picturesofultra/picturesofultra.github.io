@@ -5,7 +5,7 @@ The middle way
 :date: 2021-01-12
 :summary: The Middle Way is an intimate look into Joe Grant's Tour de 14er project. Joe set out from his doorstep in Gold Hill, Colorado to attempt to summit...
 :release_year: 2019
-:duration: 18 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_middle_way.main.jpg

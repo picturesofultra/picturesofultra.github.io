@@ -5,7 +5,7 @@ Summits of my life : A fine line
 :date: 2021-01-19
 :summary: A Fine Line takes us on a breathtaking journey over the spectacular snow-covered peaks of the Alps as we join a small group of extraordinary...
 :release_year: 2012
-:duration: 52 min
+:duration: 
 :language: English
 :country: France
 :img_main: images/a_fine_line_2.main.jpg

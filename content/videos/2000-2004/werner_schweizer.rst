@@ -5,7 +5,7 @@ Interview of Werner Schweizer, finisher of the UTMB first edition
 :date: 2021-01-06
 :summary: Werner Scheizer was the winner of the Super-Marathon du Mont Blanc in 1987. He participated in the UTMB every year from 2003 to 2010. He was 64...
 :release_year: 2003
-:duration: 3 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/werner_schweizer.main.png

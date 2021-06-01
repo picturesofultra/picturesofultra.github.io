@@ -5,7 +5,7 @@ Limitless
 :date: 2021-01-11
 :summary: A 300-Mile Run to Prove that anything is possible.
 :release_year: 2020
-:duration: 1h 23 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/limitless.main.jpg

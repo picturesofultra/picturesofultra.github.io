@@ -5,7 +5,7 @@ Kilian' s quest : back to the source
 :date: 2021-01-18
 :summary: " I realised I wasn’t doing what I wanted...that I really wanted to be in the mountains. Being in the mountains from day to day... feeling...
 :release_year: 2012
-:duration: 5 min
+:duration: 
 :language: Spanish
 :country: France
 :img_main: images/kilians_quest_back_to_the_source.main.jpg

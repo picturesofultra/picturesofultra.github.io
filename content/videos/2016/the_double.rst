@@ -5,7 +5,7 @@ The double
 :date: 2021-01-03
 :summary: From the heat, speed and competition at the Western States 100 to the high altitude, steep climbs and torrential weather of the Hardrock Hundred...
 :release_year: 2016
-:duration: 10 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_double.main.jpg

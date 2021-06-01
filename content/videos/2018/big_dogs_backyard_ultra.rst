@@ -5,7 +5,7 @@ Big Dog's Backyard Ultra: The Last Man Standing
 :date: 2021-01-09
 :summary: An ostensibly simple race, Big’s Backyard Ultra has been described as one of the most mentally and strategically complex races in the world –...
 :release_year: 2018
-:duration: 17 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/big_dogs_backyard_ultra.main.jpg

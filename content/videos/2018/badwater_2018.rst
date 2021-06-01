@@ -5,7 +5,7 @@ Badwater 135 : the race of champions
 :date: 2021-01-31
 :summary: Documentary on the 2018 edition of Badwater 135
 :release_year: 2018
-:duration: 39 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/badwater_2018.main.jpg

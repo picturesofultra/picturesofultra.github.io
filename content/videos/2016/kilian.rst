@@ -5,7 +5,7 @@ Kilian
 :date: 2020-12-31
 :summary: Kilian Jornet is considered the greatest mountain runner ever. But he doesn't consider himself a runner. Join Kilian in his new backyard in Norway...
 :release_year: 2016
-:duration: 14 min
+:duration: 
 :language: English
 :img_main: images/kilian.main.jpg
 :img_thumb: images/kilian.thumb.jpg

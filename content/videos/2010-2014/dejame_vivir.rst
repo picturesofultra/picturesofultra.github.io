@@ -5,7 +5,7 @@ Summits of my life : Déjame Vivir
 :date: 2021-01-19
 :summary: Déjame Vivir is a story of determination, spectacular landscapes and unshakeable friend- ship. Following in the footsteps of the pioneers of Sky...
 :release_year: 2014
-:duration: 1h
+:duration: 
 :language: English
 :country: France
 :img_main: images/dejame_vivir.main.jpg

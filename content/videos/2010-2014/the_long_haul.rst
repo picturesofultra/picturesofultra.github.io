@@ -5,7 +5,7 @@ The Long Haul: John Muir Trail (Hal Koerner and Mike Wolfe)
 :date: 2020-12-31
 :summary: JB Benna's short film recounts the story of Ultramarathoners Mike Wolfe and Hal Koerner as they set out to run the John Muir Trail in 2013 and best...
 :release_year: 2014
-:duration: 38 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_long_haul.main.jpg

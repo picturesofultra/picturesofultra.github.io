@@ -5,7 +5,7 @@ Yannis Kouros - Forever running
 :date: 2020-12-31
 :summary: Greek film on the ultra-running legend.
 :release_year: 2004
-:duration: 1h
+:duration: 
 :language: Greek
 :country: Greece
 :img_main: images/yiannis_kouros_forever_running.main.jpg

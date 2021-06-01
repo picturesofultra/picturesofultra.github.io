@@ -5,7 +5,7 @@ The forest - Salomon Running TV S04E05
 :date: 2021-01-31
 :summary: "The Forest" heads into the Giant Redwoods of Northern California with Anna Frost, Rickey Gates and Matt Flaherty and pays ode to the quiet moments...
 :release_year: 2015
-:duration: 5 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/the_forest.main.jpg

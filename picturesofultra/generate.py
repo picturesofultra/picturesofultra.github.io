@@ -5,7 +5,7 @@ import os
 import re
 import shutil
 import textwrap
-from typing import Any, Dict, List, Optional, Union
+from typing import Any, Dict, List, Optional, Union, cast
 
 import numpy as np
 
@@ -25,7 +25,10 @@ def clean_content() -> None:
 
 
 def format_duration(tt: dt.timedelta) -> str:
+    if type(tt) is not dt.timedelta:
+        return ''
     minutes, seconds = divmod(tt.total_seconds(), 60)
+
     seconds = int(seconds)
 
     if minutes >= 2:

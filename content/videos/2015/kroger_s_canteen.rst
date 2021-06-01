@@ -5,7 +5,7 @@ Kroger’s Canteen - Salomon Running TV S04E07
 :date: 2020-12-31
 :summary: In 2014, Kilian Jornet won the Hard Rock 100 mile run through the San Juan’s of Colorado. Along the way he stopped at Kroger’s Canteen – an aid...
 :release_year: 2015
-:duration: 8 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/kroger_s_canteen.main.jpg

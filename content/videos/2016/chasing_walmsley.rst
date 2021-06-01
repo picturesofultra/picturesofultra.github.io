@@ -5,7 +5,7 @@ Chasing Walmsley | Grand Canyon Rim 2 Rim 2 Rim record
 :date: 2021-01-03
 :summary: On October 4, 2016 Jim Walmsley broke the Grand Canyon Rim 2 Rim 2 Rim record of running from the South to North Rim of Grand Canyon and back. Jim...
 :release_year: 2016
-:duration: 6 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/chasing_walmsley.main.jpg

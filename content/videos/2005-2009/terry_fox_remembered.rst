@@ -5,7 +5,7 @@ Terry Fox Remembered
 :date: 2020-12-31
 :summary: Beyond the funds raised for cancer research, Terry Fox and his Marathon of Hope left another, less visible legacy: a profound impact on the lives...
 :release_year: 2005
-:duration: 48 min
+:duration: 
 :language: English
 :country: Canada
 :img_main: images/terry_fox_remembered.main.jpg

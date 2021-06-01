@@ -5,7 +5,7 @@ Into the wind
 :date: 2020-12-31
 :summary: Into the Wind is a 2010 documentary film which chronicles the story of Terry Fox. At the age of 18, Fox was diagnosed with osteosarcoma. The cancer...
 :release_year: 2010
-:duration: 51 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/into_the_wind.main.jpg

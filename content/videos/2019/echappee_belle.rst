@@ -5,7 +5,7 @@ Echappée belle : l'ultra-trail le plus difficile de France
 :date: 2021-01-06
 :summary: Pour comprendre la douleur physique et psychique avec les participants d'un ultra-trail éprouvant. Leurs péripéties, leurs moments de...
 :release_year: 2019
-:duration: 27 min
+:duration: 
 :language: French
 :country: France
 :img_main: images/echappee_belle.main.jpg

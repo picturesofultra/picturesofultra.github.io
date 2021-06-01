@@ -5,7 +5,7 @@ Trail Fighter
 :date: 2021-01-03
 :summary: After a successful career as a professional MMA fighter, Kyle Dietz was looking for a new challenge. Currently living in Iowa, Kyle found that new...
 :release_year: 2014
-:duration: 6 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/trail_fighter.main.jpg

@@ -5,7 +5,7 @@
 :date: 2021-01-09
 :summary: Middle Pack of The Western States 100 : We are not only focused on the fast and furious with our documentaries but also the middle of the pack...
 :release_year: 2018
-:duration: 12 min
+:duration: 
 :language: English
 :country: United States
 :img_main: images/48_hours_of_the_western_states.main.jpg
