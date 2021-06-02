@@ -5,7 +5,7 @@ Above and Beyond Badwater
 :date: 2021-01-31
 :summary: Amazing complete story of the Badwater first time experience through the eyes of Akos Konya, Gary Roberts, Anissa Roberts, Karsten Solheim. top ten...
 :release_year: 2013
-:duration: 
+:duration: 123.0 min
 :language: English
 :country: United States
 :img_main: images/above_and_beyond_badwater.main.jpg

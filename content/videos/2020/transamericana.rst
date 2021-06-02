@@ -5,7 +5,7 @@ Transamericana with Rickey Gates running 3700 miles across America
 :date: 2020-12-31
 :summary: In a time of uncertain politics and a crescendo of differences, American Ultra-Runner Rickey Gates sets off on foot across America. In the midst of...
 :release_year: 2020
-:duration: 
+:duration: 75.0 min
 :language: English
 :country: United States
 :img_main: images/transamericana.main.jpg

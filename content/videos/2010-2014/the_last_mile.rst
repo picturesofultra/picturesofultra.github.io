@@ -5,7 +5,7 @@ The Last Mile
 :date: 2021-01-17
 :summary: This inspiring new film from runner and cinematographer John Burkett documents his adventures into a new life free of his destructive past and into...
 :release_year: 2013
-:duration: 
+:duration: 68.0 min
 :language: English
 :country: United States
 :img_main: images/the_last_mile.main.jpg

@@ -5,7 +5,7 @@ Mira
 :date: 2020-12-31
 :summary: Mira’ retrace le parcourt d’une jeune villageoise népalaise dont l’objectif est de devenir une coureuse mondialement reconnue. Originaire d’un...
 :release_year: 2016
-:duration: 
+:duration: 42.0 min
 :language: English
 :country: Hong Kong
 :img_main: images/mira.main.jpg

@@ -5,7 +5,7 @@ Racing the darkness
 :date: 2021-01-03
 :summary: Follow Sage Canaday’s 2016 Western States 100. Spoiler, it doesn’t go as planned.
 :release_year: 2016
-:duration: 
+:duration: 12.0 min
 :language: English
 :country: United States
 :img_main: images/racing_the_darkness.main.jpg

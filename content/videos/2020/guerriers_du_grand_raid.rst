@@ -5,7 +5,7 @@ Les guerriers du grand raid
 :date: 2021-01-03
 :summary: "En octobre 2019, La Clinique Du Coureur embarque dans un projet sans égal : envoyer plus d’une quarantaine de coureurs affronter le Grand Raid de...
 :release_year: 2020
-:duration: 
+:duration: 45.0 min
 :language: French
 :country: France
 :img_main: images/guerriers_du_grand_raid.main.jpg

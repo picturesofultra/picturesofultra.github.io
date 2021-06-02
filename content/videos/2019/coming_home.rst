@@ -5,7 +5,7 @@ Coming home
 :date: 2021-01-04
 :summary: Paddy O'Leary grew up in Wexford, Ireland, but didn't discover his love and talent for running until he moved to San Francisco. Now, he is...
 :release_year: 2019
-:duration: 
+:duration: 24.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/coming_home.main.jpg

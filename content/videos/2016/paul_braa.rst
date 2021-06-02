@@ -5,7 +5,7 @@ Paul Braa – Western States 100
 :date: 2020-12-31
 :summary: After watching endless documentaries about elites running Western States, it’s nice to watch the “average joes” getting it done. I stumbled upon...
 :release_year: 2016
-:duration: 
+:duration: 25.0 min
 :language: English
 :country: United States
 :img_main: images/paul_braa.main.jpg

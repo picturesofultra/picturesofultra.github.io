@@ -5,7 +5,7 @@ The Crown Traverse
 :date: 2021-01-03
 :summary: "In fall 2015, ultrarunners Mike Foote and Mike Wolfe set out on a route they dubbed the Crown Traverse. Starting from their hometown of Missoula,...
 :release_year: 2015
-:duration: 
+:duration: 12.0 min
 :language: English
 :country: United States
 :img_main: images/the_crown_traverse.main.jpg

@@ -5,7 +5,7 @@ Underdog
 :date: 2020-12-31
 :summary: I was trying to be like them...UTMB® had become an obsession I felt unable to control at times. It’s not just a 105-mile race in the Alps with...
 :release_year: 2018
-:duration: 
+:duration: 21.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/underdog.main.jpg

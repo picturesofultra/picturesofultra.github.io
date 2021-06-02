@@ -5,7 +5,7 @@ How To Run 100 Miles
 :date: 2020-12-31
 :summary: In September 2017, I stepped up to the starting line of the Run Rabbit Run 100 in Steamboat Springs, Colorado, alongside my friend Jayson Sime. The...
 :release_year: 2018
-:duration: 
+:duration: 28.0 min
 :language: English
 :country: United States
 :img_main: images/how_to_run_100_miles.main.jpg

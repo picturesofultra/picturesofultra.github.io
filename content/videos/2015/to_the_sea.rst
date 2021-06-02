@@ -5,7 +5,7 @@ To the sea - Salomon Running TV S04E07
 :date: 2021-01-31
 :summary: In the late 70s, surfing was professionalised by a group of young surfers, allowing them the chance to make a career out of doing what they loved...
 :release_year: 2015
-:duration: 
+:duration: 4.0 min
 :language: English
 :country: United States
 :img_main: images/to_the_sea.main.jpg

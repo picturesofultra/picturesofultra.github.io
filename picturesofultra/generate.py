@@ -1,11 +1,10 @@
 import datetime as dt
 import json
-import logging
 import os
-import re
+import pandas as pd
 import shutil
 import textwrap
-from typing import Any, Dict, List, Optional, Union, cast
+from typing import Any, Dict, List, Optional, Union
 
 import numpy as np
 
@@ -24,11 +23,11 @@ def clean_content() -> None:
         print(f"Removed:    {path}")
 
 
-def format_duration(tt: dt.timedelta) -> str:
-    if type(tt) is not dt.timedelta:
+def format_duration(tt: pd.Timedelta) -> str:
+    if type(tt) is not pd.Timedelta:
         return ''
-    minutes, seconds = divmod(tt.total_seconds(), 60)
 
+    minutes, seconds = divmod(tt.total_seconds(), 60)
     seconds = int(seconds)
 
     if minutes >= 2:

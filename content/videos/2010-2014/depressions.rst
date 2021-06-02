@@ -5,7 +5,7 @@ depressions - a few moments from 30 miles in the canyon
 :date: 2021-01-03
 :summary: Depressions in landscape & emotion. An unstaged, mid-run, terrestrial-based short with Rob Krar. Krar, new to ultra running, holds the speed record...
 :release_year: 2014
-:duration: 
+:duration: 8.0 min
 :language: English
 :country: United States
 :img_main: images/depressions.main.jpg

@@ -5,7 +5,7 @@ Totally FKT
 :date: 2021-06-01
 :summary: Totally FKT is a documentary centred around two attempts on Pennine Way fastest known time (FKT). After 31 years the record is finally broken on...
 :release_year: 2020
-:duration: 
+:duration: 52.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/totally_fkt.main.jpg

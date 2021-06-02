@@ -5,7 +5,7 @@ The Teacher
 :date: 2020-12-31
 :summary: Stevie Kremer is a second grade teacher from the small idyllic mountain town of Crested Butte, Colorado. She also happens to be considered one of...
 :release_year: 2015
-:duration: 
+:duration: 5.0 min
 :language: English
 :country: United States
 :img_main: images/the_teacher.main.jpg

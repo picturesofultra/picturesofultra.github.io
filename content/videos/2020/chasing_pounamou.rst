@@ -5,7 +5,7 @@ Chasing Pounamou
 :date: 2021-01-31
 :summary: An inspirational authentic story that follows a back of the pack runner, as he runs for redemption at the 2019 Tarawera 100 mile Ultramarathon. A...
 :release_year: 2020
-:duration: 
+:duration: 30.0 min
 :language: English
 :country: New Zealand
 :img_main: images/chasing_pounamou.main.jpg

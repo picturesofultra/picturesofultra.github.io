@@ -5,7 +5,7 @@ Rhythm
 :date: 2021-01-17
 :summary: We may call BD Athlete Joe Grant a “runner guy,” but honestly, those words fail to give a true notion of what he actually does. Truth is, Joe Grant...
 :release_year: 2018
-:duration: 
+:duration: 1.0 min 53 secs
 :language: English
 :country: United States
 :img_main: images/rhythm.main.jpg

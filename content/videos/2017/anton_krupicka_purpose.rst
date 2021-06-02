@@ -5,7 +5,7 @@ Anton Krupicka - Purpose
 :date: 2020-12-31
 :summary: La Sportiva presents "Purpose" a short movie dedicated to the Ultra-Runner and adventurer Anton Krupicka.
 :release_year: 2017
-:duration: 
+:duration: 15.0 min
 :language: English
 :country: United States
 :img_main: images/anton_krupicka_purpose.main.jpg

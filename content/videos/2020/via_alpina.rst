@@ -5,7 +5,7 @@ Via Alpina
 :date: 2021-01-08
 :summary: Discover the 2650K with 150 000m of elevation of the Via Alpina through landscapes as diffult as beautiful. The documentary tell the tale of the...
 :release_year: 2020
-:duration: 
+:duration: 55.0 min
 :language: French
 :country: France
 :img_main: images/via_alpina.main.jpg

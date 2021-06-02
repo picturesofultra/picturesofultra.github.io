@@ -5,7 +5,7 @@ Cape Wrath: inside Scotland's epic ultra-running race
 :date: 2021-01-03
 :summary: Winding through the beautiful lochs, glens and mountains of the Scottish Highlands, the Cape Wrath Ultra™ is an ultra-running expedition through...
 :release_year: 2017
-:duration: 
+:duration: 31.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/cape_wrath.main.jpg

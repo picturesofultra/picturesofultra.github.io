@@ -5,7 +5,7 @@ Goshen
 :date: 2020-12-31
 :summary: The Tarahumara tribe was made popular in Born to Run, a best-selling novel by Chris McDougall. GOSHEN is a powerful documentary depicting the diet...
 :release_year: 2020
-:duration: 
+:duration: 85.0 min
 :language: English
 :country: United States
 :img_main: images/goshen.main.jpg

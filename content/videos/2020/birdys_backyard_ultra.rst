@@ -5,7 +5,7 @@ Birdy's Backyard Ultra 2020
 :date: 2021-01-04
 :summary: Birdy’s Backyard Ultra, Lake Towerrinning, Western Australia. A 6.71k run around a lake, on the hour, every hour until the last one standing. We...
 :release_year: 2020
-:duration: 
+:duration: 35.0 min
 :language: English
 :country: Australia
 :img_main: images/birdys_backyard_ultra.main.jpg

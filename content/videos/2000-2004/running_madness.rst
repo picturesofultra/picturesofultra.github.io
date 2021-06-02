@@ -5,7 +5,7 @@ Running Madness
 :date: 2020-12-31
 :summary: "Vintage" documentary on Western States 100. Focuses on "average joes", and features a very young, long haired Scott Jurek. Great stuff.
 :release_year: 2002
-:duration: 
+:duration: 75.0 min
 :language: English
 :country: United States
 :img_main: images/running_madness.main.jpg

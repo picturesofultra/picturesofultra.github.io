@@ -5,7 +5,7 @@ Great Himalaya Trail, High Route – The Ultimate Trail
 :date: 2020-12-31
 :summary: In September 2013, Philippe and Anna Gatta left the small village of Simikot in the Western Nepal, aiming to run the high route of the Great...
 :release_year: 2014
-:duration: 
+:duration: 29.0 min
 :language: English
 :country: Nepal
 :img_main: images/the_ultimate_trail.main.jpg

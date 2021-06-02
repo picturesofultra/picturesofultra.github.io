@@ -5,7 +5,7 @@ Like Harvey Like son
 :date: 2021-01-12
 :summary: On May 30th 2018, Ultra-runner and Cincinnati-based high school teacher Harvey Lewis III set out to attempt the Fastest Known Time on the...
 :release_year: 2018
-:duration: 
+:duration: 90.0 min
 :language: English
 :country: United States
 :img_main: images/like_harvey_like_son.main.jpg

@@ -5,7 +5,7 @@ Il corridore
 :date: 2021-01-12
 :summary: Marco Olmo is a living legend of extreme running. He became late, when the others started to stop. In his previous lives, as he says, he has been a...
 :release_year: 2009
-:duration: 
+:duration: 52.0 min
 :language: Italian
 :country: Italy
 :img_main: images/il_corridore.main.jpg

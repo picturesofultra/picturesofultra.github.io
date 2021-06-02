@@ -5,7 +5,7 @@ DADA: From the Olympic Games to the Diagonal of Fools
 :date: 2021-01-09
 :summary: His childhood on Reunion Island... His beginnings in sport and triathlon... From his 1st world titles in the early 2000s in the junior category to...
 :release_year: 2020
-:duration: 
+:duration: 14.0 min
 :language: French
 :country: France
 :img_main: images/data_from_olympic_games.main.jpg

@@ -5,7 +5,7 @@ Trail Running
 :date: 2021-01-04
 :summary: A really nice short film on the Bromont Ultra in Canada. No drone shots, lots of close-ups and very cool sound track. Refreshing.
 :release_year: 2017
-:duration: 
+:duration: 1.0 min 43 secs
 :country: Canada
 :img_main: images/trail_running.main.jpg
 :img_thumb: images/trail_running.thumb.jpg

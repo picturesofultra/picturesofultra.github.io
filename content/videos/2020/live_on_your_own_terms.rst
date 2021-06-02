@@ -5,7 +5,7 @@ Live on your own terms
 :date: 2020-12-31
 :summary: “I understand there’s a guy inside me who wants to lay in bed, smoke weed all day, and watch cartoons and old movies. My whole life is a series of...
 :release_year: 2020
-:duration: 
+:duration: 6.0 min
 :language: English
 :country: United States
 :img_main: images/live_on_your_own_terms.main.jpg

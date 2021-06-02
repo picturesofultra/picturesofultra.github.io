@@ -5,7 +5,7 @@ The Great American Foot Race
 :date: 2020-12-31
 :summary: Facing scorching temperatures, 19-year-old Andy Payne, a small-town Cherokee boy, takes home the gold after winning a grueling 3,422-mile foot race...
 :release_year: 2002
-:duration: 
+:duration: 57.0 min
 :language: English
 :country: United States
 :img_main: images/the_great_american_footrace.main.jpg

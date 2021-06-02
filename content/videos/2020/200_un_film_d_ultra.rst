@@ -5,7 +5,7 @@
 :date: 2020-12-31
 :summary: Yann Gobert, french ultra-runner, follows the GR30 to run 200km for the first time.
 :release_year: 2020
-:duration: 
+:duration: 14.0 min
 :language: French
 :country: France
 :img_main: images/200_un_film_d_ultra.main.jpg

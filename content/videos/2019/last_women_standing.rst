@@ -5,7 +5,7 @@ Last Women Standing
 :date: 2020-12-31
 :summary: In 2019, inov-8 ambassador and breast cancer survivor Nicky Spinks attempted to become the first-ever woman to complete The Barkley Marathons - the...
 :release_year: 2019
-:duration: 
+:duration: 40.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/last_women_standing.main.jpg

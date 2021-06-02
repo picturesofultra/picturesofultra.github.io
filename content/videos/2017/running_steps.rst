@@ -5,7 +5,7 @@ Running steps : beyond limits
 :date: 2021-01-09
 :summary: Badwater®135 has been called “The Toughest Footrace on Earth,” and covers 217 km (135 miles) non-stop from the basin of Death Valley, CA. Far away...
 :release_year: 2017
-:duration: 
+:duration: 15.0 min
 :language: English
 :country: United States
 :img_main: images/running_steps.main.jpg

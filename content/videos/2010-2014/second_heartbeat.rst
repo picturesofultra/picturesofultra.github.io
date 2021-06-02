@@ -5,7 +5,7 @@ Second heartbeat
 :date: 2021-01-17
 :summary: Tony Krupicka quick scramble up the second flatiron in Boulder, CO.
 :release_year: 2013
-:duration: 
+:duration: 3.0 min
 :language: English
 :country: United States
 :img_main: images/second_heartbeat.main.jpg

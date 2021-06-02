@@ -5,7 +5,7 @@ The Corris Round - A lockdown inspired Ultra Run in Southern Snowdonia
 :date: 2021-01-09
 :summary: Initially during lockdown 1.0, twelve year old Tom was content with local walks, some climbing and watching videos on YouTube. As the days he...
 :release_year: 2020
-:duration: 
+:duration: 20.0 min
 :language: English
 :country: United Kingdom
 :img_main: images/the_corris_round.main.jpg

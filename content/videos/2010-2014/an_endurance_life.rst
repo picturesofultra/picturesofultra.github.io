@@ -5,7 +5,7 @@ An Endurance Life with Sébastien Chaigneau
 :date: 2020-12-31
 :summary: Sebastien Chaigneau is a runner; he runs distances of between 120 and 200 km across mountains. In this documentary he shows us his daily training...
 :release_year: 2014
-:duration: 
+:duration: 25.0 min
 :language: French
 :country: France
 :img_main: images/an_endurance_life.main.jpg

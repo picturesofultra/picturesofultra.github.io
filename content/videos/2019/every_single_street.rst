@@ -5,7 +5,7 @@ Every Single Street with Rickey Gates
 :date: 2021-01-08
 :summary: Rickey Gates decided to run every single street in San Francisco - to get to know a very small area of America, as well as its people, intimately....
 :release_year: 2019
-:duration: 
+:duration: 18.0 min
 :language: English
 :country: United States
 :img_main: images/every_single_street.main.jpg

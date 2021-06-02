@@ -5,7 +5,7 @@ Mentors: Hillary Allen
 :date: 2020-12-31
 :summary: After a harrowing accident, ultra runner Hillary Allen began a journey to recovery that allowed her to discover the true meaning of strength.
 :release_year: 2018
-:duration: 
+:duration: 6.0 min
 :language: English
 :country: United States
 :img_main: images/metors_hillary_allen.main.jpg

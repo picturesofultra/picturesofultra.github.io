@@ -5,7 +5,7 @@ Human powered
 :date: 2021-01-04
 :summary: Every year, trail runners from around the world line up to test themselves at the grueling Finlayson Arm 100km on Vancouver Island. Human Powered...
 :release_year: 2018
-:duration: 
+:duration: 24.0 min
 :language: English
 :country: Canada
 :img_main: images/human_powered.main.jpg

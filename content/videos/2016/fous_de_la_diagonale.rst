@@ -5,7 +5,7 @@ Les fous de la Diagonale
 :date: 2021-01-06
 :summary: French TV short on the 2016 "Diagonale des Fous". Its covers mostly the adventure of the average "fous" (crazies) that embark on this journey.
 :release_year: 2016
-:duration: 
+:duration: 24.0 min
 :language: French
 :country: France
 :img_main: images/fous_de_la_diagonale.main.jpg

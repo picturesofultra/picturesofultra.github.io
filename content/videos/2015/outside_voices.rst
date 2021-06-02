@@ -5,7 +5,7 @@ Outside Voices
 :date: 2021-01-03
 :summary: It's time to get to know Jenn Shelton, one of the most outspoken voices in running. Known for her shenanigans featured in the bestselling book Born...
 :release_year: 2015
-:duration: 
+:duration: 45.0 min
 :language: English
 :country: United States
 :img_main: images/outside_voices.main.jpg
