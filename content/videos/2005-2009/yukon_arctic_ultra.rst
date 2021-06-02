@@ -5,7 +5,7 @@ Yukon Arctic Ultra 2006
 :date: 2021-01-03
 :summary: A TV short film about this extreme multiday race on Yukon, Alaska in february.
 :release_year: 2006
-:duration: 48.0 min
+:duration: 48 min
 :language: French
 :country: Belgium
 :img_main: images/yukon_arctic_ultra.main.jpg

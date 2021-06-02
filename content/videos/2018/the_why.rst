@@ -5,7 +5,7 @@ THE WHY | Running 100 Miles
 :date: 2020-12-31
 :summary: Why do we run 100 miles? It's a question I get from friends and acquaintances quite often. And in the lower moments during these ultramarathon...
 :release_year: 2018
-:duration: 30.0 min
+:duration: 30 min
 :language: English
 :country: United States
 :img_main: images/the_why.main.jpg

@@ -5,7 +5,7 @@ Thirty Hours
 :date: 2021-01-03
 :summary: Running 100 miles is tough, running 100 miles when you’re 72 years old is unimaginable. Unless you're Wally Hesseltine. Follow Wally as he pushes...
 :release_year: 2016
-:duration: 12.0 min
+:duration: 12 min
 :language: English
 :country: United States
 :img_main: images/thirty_hours.main.jpg

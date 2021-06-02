@@ -5,7 +5,7 @@ Boulder Trail Runners - Q&A
 :date: 2021-01-17
 :summary: Scott Jurek, Anton Krupicka, Dave Mackey and Geoff Roes answer a few questions about training, racing and 2011 running plans at the Boulder Trail...
 :release_year: 2010
-:duration: 30.0 min
+:duration: 30 min
 :language: English
 :country: United States
 :img_main: images/boulder_trail_runners.main.jpg

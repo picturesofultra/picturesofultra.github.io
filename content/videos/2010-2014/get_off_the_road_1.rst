@@ -5,7 +5,7 @@ Get off the road (ep 1)
 :date: 2021-01-15
 :summary: When Vancouver trail runner James Marshall decided he wanted a break from pounding the pavement he found the 5 Peaks Trails Running Series and...
 :release_year: 2014
-:duration: 1.0 min 46 secs
+:duration: 1 min 46 secs
 :language: English
 :country: Canada
 :img_main: images/get_off_the_road_1.main.jpg

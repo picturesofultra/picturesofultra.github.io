@@ -5,7 +5,7 @@ A Few Steps Further
 :date: 2021-01-04
 :summary: When Kevin Davis first began running, he was overweight and out of shape. Now, years later, he runs 100-mile races. He uses that fitness to support...
 :release_year: 2018
-:duration: 13.0 min
+:duration: 13 min
 :language: English
 :country: United States
 :img_main: images/a_few_steps_further.main.jpg

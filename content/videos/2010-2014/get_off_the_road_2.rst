@@ -5,7 +5,7 @@ Get off the road (ep 2)
 :date: 2021-01-15
 :summary: Vancouver trail runner Solana Klassen has always loved 5 Peaks Trail Running Series. A lot of her friends were interested in trail running but were...
 :release_year: 2014
-:duration: 3.0 min
+:duration: 3 min
 :language: English
 :country: Canada
 :img_main: images/get_off_the_road_2.main.jpg

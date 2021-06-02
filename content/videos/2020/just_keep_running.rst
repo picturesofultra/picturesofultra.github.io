@@ -5,7 +5,7 @@ Just keep running
 :date: 2021-01-08
 :summary: New Zealander, Ruby Muir is one of the world's most promising young trail-runners and a fearless, force of nature across broken terrain. In just...
 :release_year: 2020
-:duration: 10.0 min
+:duration: 10 min
 :language: English
 :country: New Zealand
 :img_main: images/just_keep_running.main.jpg

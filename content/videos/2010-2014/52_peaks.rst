@@ -5,7 +5,7 @@
 :date: 2020-12-31
 :summary: 52 Peaks is a beautiful and contemplative film completely directed, produced, edited, animated, and starring Matthew Dickinson. It follows him as...
 :release_year: 2014
-:duration: 14.0 min
+:duration: 14 min
 :language: English
 :country: New Zealand
 :img_main: images/52_peaks.main.jpg

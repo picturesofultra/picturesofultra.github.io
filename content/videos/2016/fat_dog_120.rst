@@ -5,7 +5,7 @@ Fat Dog 120
 :date: 2021-01-31
 :summary: A nicelly directed film on a Ultra-Trail accord the grandiose landscapes of British Columbia in Canada
 :release_year: 2016
-:duration: 29.0 min
+:duration: 29 min
 :language: English
 :country: Canada
 :img_main: images/fat_dog_120.main.jpg

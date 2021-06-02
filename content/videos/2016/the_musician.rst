@@ -5,7 +5,7 @@ The Musician
 :date: 2020-12-31
 :summary: Ben Gibbard is the frontman for American alternative rock band “Death Cab for Cutie”, he also happens to love trail running. We linked up with him...
 :release_year: 2016
-:duration: 7.0 min
+:duration: 7 min
 :language: English
 :country: United States
 :img_main: images/the_musician.main.jpg

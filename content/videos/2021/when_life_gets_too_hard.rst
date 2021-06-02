@@ -5,7 +5,7 @@ When life gets too hard : The story of Bo Larsson
 :date: 2021-01-08
 :summary: When life gets too hard it is important to listen to yourself. Completing small tasks can lead to bigger goals and along the way you get to know...
 :release_year: 2021
-:duration: 23.0 min
+:duration: 23 min
 :language: Danish
 :country: Denmark
 :img_main: images/when_life_gets_too_hard.main.jpg

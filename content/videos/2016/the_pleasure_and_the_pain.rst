@@ -5,7 +5,7 @@ The Pleasure and the Pain
 :date: 2021-01-03
 :summary: Errol “The Rocket” Jones is a 65-year-old ultrarunner. This is his story of pain, perseverance and self-discovery on the Bay Area Ridge Trail.
 :release_year: 2016
-:duration: 5.0 min
+:duration: 5 min
 :language: English
 :country: United States
 :img_main: images/the_pleasure_and_the_pain.main.jpg

@@ -5,7 +5,7 @@ The hundred miler: Three ultra runners face the 'holy grail' of trail running
 :date: 2021-01-06
 :summary: Three normal guys, brought together by a love for running, who take on the holy grail of trail running, Ultra Trail du Mont Blanc. 'The Hundred...
 :release_year: 2020
-:duration: 36.0 min
+:duration: 36 min
 :language: English
 :country: Australia
 :img_main: images/the_hundred_miler.main.jpg

@@ -5,7 +5,7 @@ The Beauty of the Irrational
 :date: 2021-01-03
 :summary: Human beings don't always make rational decisions. But making irrational decisions is precisely what makes us human. These decisions, based on an...
 :release_year: 2012
-:duration: 6.0 min
+:duration: 6 min
 :language: English
 :country: United States
 :img_main: images/the_beauty_of_the_irrational.main.jpg

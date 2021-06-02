@@ -5,7 +5,7 @@ The Hard Way
 :date: 2021-01-04
 :summary: The Hard Way is the inspirational story of Bob Hayes, an 89-year-old who runs 30 races each year, cuts his firewood by hand and does things the...
 :release_year: 2017
-:duration: 25.0 min
+:duration: 25 min
 :language: English
 :country: United States
 :img_main: images/the_hard_way.main.jpg

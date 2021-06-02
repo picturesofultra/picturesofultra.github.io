@@ -28,10 +28,11 @@ def format_duration(tt: pd.Timedelta) -> str:
         return ''
 
     minutes, seconds = divmod(tt.total_seconds(), 60)
+    minutes = int(minutes)
     seconds = int(seconds)
 
     if minutes >= 2:
-        minutes += round(seconds/60)
+        minutes += int(round(seconds/60))
         ret = f'{minutes} min'
     else:
         ret = f'{minutes} min'

@@ -5,7 +5,7 @@ Found on 49 - The story of Jim Walmsley
 :date: 2020-12-31
 :summary: The story of Jim Walmsley's first 100 miler at the 2016 Western States 100 mile endurance run. We follow Jim a few weeks out from race day through...
 :release_year: 2017
-:duration: 49.0 min
+:duration: 49 min
 :language: English
 :country: United States
 :img_main: images/found_on_49.main.jpg

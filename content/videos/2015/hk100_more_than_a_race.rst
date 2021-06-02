@@ -5,7 +5,7 @@ HK100 : More than a race
 :date: 2020-12-31
 :summary: More Than A Race follows the 100-kilometre journey of some of the world’s best ultra runners in the 2014 Vibram Hong Kong 100, the city’s original...
 :release_year: 2015
-:duration: 42.0 min
+:duration: 42 min
 :language: English
 :country: Hong Kong
 :img_main: images/hk100_more_than_a_race.main.jpg

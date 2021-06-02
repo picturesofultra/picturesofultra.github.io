@@ -5,7 +5,7 @@ The most beautifull thing
 :date: 2021-01-15
 :summary: The Most Beautiful Thing [TMBT] is an iconic ultra trail marathon set in the spectacular surroundings of Mount Kinabalu on the Malaysian island of...
 :release_year: 2019
-:duration: 6.0 min
+:duration: 6 min
 :language: English
 :country: Brunei Darussalam
 :img_main: images/the_most_beautifull_thing.main.jpg

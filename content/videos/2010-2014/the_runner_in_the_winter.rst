@@ -5,7 +5,7 @@ The runner in the winter
 :date: 2021-01-03
 :summary: Tony Krupicka shows us how he copes with running in the mountains when the snow flies.
 :release_year: 2011
-:duration: 10.0 min
+:duration: 10 min
 :language: English
 :country: United States
 :img_main: images/the_runner_in_the_winter.main.jpg

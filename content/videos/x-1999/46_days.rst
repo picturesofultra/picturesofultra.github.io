@@ -5,7 +5,7 @@
 :date: 2021-01-08
 :summary: Short film about Frank Giannino US transcon in 79, using archive footage. Frank Giannino wasn’t the best runner in high school, not even close. He...
 :release_year: 1979
-:duration: 11.0 min
+:duration: 11 min
 :language: English
 :country: United States
 :img_main: images/46_days.main.jpg

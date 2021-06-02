@@ -5,7 +5,7 @@ Life on the fells
 :date: 2021-06-01
 :summary: A film following the life of Adam Briggs, a passionate fell runner with a unique story to tell. Driven by the events of the past and the constant...
 :release_year: 2017
-:duration: 5.0 min
+:duration: 5 min
 :language: English
 :country: United Kingdom
 :img_main: images/life_on_the_fells.main.jpg

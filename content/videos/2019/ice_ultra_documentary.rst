@@ -5,7 +5,7 @@ Ice Ultra - The Documentary
 :date: 2021-01-03
 :summary: In February 2018, a group of runners took on the Ice Ultra, a yearly, 230km, 5-day race inside the Arctic circle. For the first time in the race's...
 :release_year: 2019
-:duration: 20.0 min
+:duration: 20 min
 :language: English
 :country: United States
 :img_main: images/ice_ultra_documentary.main.jpg

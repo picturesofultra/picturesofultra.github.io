@@ -5,7 +5,7 @@ Trials of Miles: Running 650km of the Australian Alps
 :date: 2020-12-31
 :summary: Beau Miles laces up for a different kind of world first, running 650+km of the Australian Alpine Walking Track. Traversing through some of the...
 :release_year: 2016
-:duration: 52.0 min
+:duration: 52 min
 :language: English
 :country: Australia
 :img_main: images/trials_of_miles.main.jpg

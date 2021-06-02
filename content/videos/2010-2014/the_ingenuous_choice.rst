@@ -5,7 +5,7 @@ The Ingenuous Choice - Mountain Running with Anton Krupicka
 :date: 2021-01-03
 :summary: Why do we decide to explore mountains, trails and the wilderness? Perhaps because "we can never have enough of nature" as Henry David Thoreau once...
 :release_year: 2014
-:duration: 7.0 min
+:duration: 7 min
 :language: English
 :country: United States
 :img_main: images/the_ingenuous_choice.main.jpg

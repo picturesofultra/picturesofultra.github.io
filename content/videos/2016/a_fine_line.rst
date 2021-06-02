@@ -5,7 +5,7 @@ A Fine Line
 :date: 2021-01-03
 :summary: Get up, get down & get outside! Follow Michael Tweedly as he runs up the Ben Nevis ridgeline in Scotland.
 :release_year: 2016
-:duration: 3.0 min
+:duration: 3 min
 :language: English
 :country: United Kingdom
 :img_main: images/a_fine_line.main.jpg

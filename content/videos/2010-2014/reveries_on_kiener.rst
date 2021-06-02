@@ -5,7 +5,7 @@ Reveries on Kiener’s
 :date: 2021-01-17
 :summary: Kiener's Route with Tony Krupicka
 :release_year: 2013
-:duration: 3.0 min
+:duration: 3 min
 :language: English
 :country: United States
 :img_main: images/reveries_on_kiener.main.jpg

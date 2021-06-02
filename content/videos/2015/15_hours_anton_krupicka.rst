@@ -5,7 +5,7 @@
 :date: 2020-12-31
 :summary: An intimate glimpse into a day in the life of famed and accomplished ultra runner Anton Krupicka as he shares his thoughts on his current injury,...
 :release_year: 2015
-:duration: 6.0 min
+:duration: 6 min
 :language: English
 :country: United States
 :img_main: images/15_hours_anton_krupicka.main.jpg

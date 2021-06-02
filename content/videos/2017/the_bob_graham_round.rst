@@ -5,7 +5,7 @@ The Bob Graham Round: Running the Fells with Friends
 :date: 2021-01-09
 :summary: Tony Holt attempts the iconic Bob Graham Round: a 66 mile ultra distance mountain challenge taking in 42 of England's Lake District fells with...
 :release_year: 2017
-:duration: 27.0 min
+:duration: 27 min
 :language: English
 :country: United Kingdom
 :img_main: images/the_bob_graham_round.main.jpg

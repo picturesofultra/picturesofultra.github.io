@@ -5,7 +5,7 @@ Is this fun
 :date: 2021-01-10
 :summary: Filmed over the course of the 9 Dragon’s weekend, “Is this fun?” dives into the psyche of two runners, John Ellis & Jo Kway, to understand each...
 :release_year: 2018
-:duration: 8.0 min
+:duration: 8 min
 :language: English
 :country: Hong Kong
 :img_main: images/is_this_fun.main.jpg

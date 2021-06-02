@@ -5,7 +5,7 @@ Summits of my life : Langtang
 :date: 2021-01-19
 :summary: Langtang is the story of a journey to the heart for Nepal. After having to cancel their Everest expedition following the catastrophic earthquake...
 :release_year: 2015
-:duration: 60.0 min
+:duration: 60 min
 :language: English
 :country: France
 :img_main: images/langtang.main.jpg

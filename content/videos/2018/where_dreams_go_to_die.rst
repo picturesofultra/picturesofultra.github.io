@@ -5,7 +5,7 @@ Where dreams go to die
 :date: 2020-12-31
 :summary: Where Dreams Go To Die is a documentary created by Ethan Newberry (The Ginger Runner) that follows Canadian ultrarunner, Gary Robbins, during his...
 :release_year: 2018
-:duration: 76.0 min
+:duration: 76 min
 :language: English
 :country: United States
 :img_main: images/where_dreams_go_to_die.main.jpg

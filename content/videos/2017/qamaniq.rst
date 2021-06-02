@@ -5,7 +5,7 @@ Qamaniq, where the river widens
 :date: 2021-01-04
 :summary: In August 2017, a team of 3 women aged 25 to 30 embarked on a quest to discover their own boundaries in an immense, wild and remote territory.They...
 :release_year: 2017
-:duration: 7.0 min
+:duration: 7 min
 :language: English
 :country: Canada
 :img_main: images/qamaniq.main.jpg

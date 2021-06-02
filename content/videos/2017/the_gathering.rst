@@ -5,7 +5,7 @@ The gathering
 :date: 2021-01-06
 :summary: A collection of sights and sounds from the front of the pack of the 2017 running of the Hardrock 100. Featured athletes include Kilian Jornet, Mike...
 :release_year: 2017
-:duration: 20.0 min
+:duration: 20 min
 :language: English
 :country: United States
 :img_main: images/the_gathering.main.jpg

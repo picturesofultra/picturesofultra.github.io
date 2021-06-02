@@ -5,7 +5,7 @@ The Year Of The Bob - Training and Running The Bob Graham Round
 :date: 2021-01-08
 :summary: Can you go from a non runner to a runner and then complete a Bob Graham Round in just a year? The Bob Graham Round is a classic fell running...
 :release_year: 2019
-:duration: 12.0 min
+:duration: 12 min
 :language: English
 :country: United Kingdom
 :img_main: images/the_year_of_the_bob.main.jpg

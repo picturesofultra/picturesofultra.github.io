@@ -5,7 +5,7 @@ I Am a Fellrunner
 :date: 2021-06-01
 :summary: Fell running is more than a sport - it is part of an identity. Through the evocation of a poem, ‘I am a Fellrunner,’ explores the way in which one...
 :release_year: 2020
-:duration: 4.0 min
+:duration: 4 min
 :language: English
 :country: United Kingdom
 :img_main: images/i_am_a_fellrunner.main.jpg

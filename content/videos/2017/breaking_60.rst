@@ -5,7 +5,7 @@ Breaking 60: Challenging the Impossible
 :date: 2021-01-10
 :summary: Follow the journey of 4 trailrunners as they take on Hong Kong's only and most formidable multi day event, the Hong Kong Four Trails Ultra...
 :release_year: 2017
-:duration: 45.0 min
+:duration: 45 min
 :language: English
 :country: Hong Kong
 :img_main: images/breaking_60.main.jpg

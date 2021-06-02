@@ -5,7 +5,7 @@ Slogging to the Top
 :date: 2021-01-03
 :summary: Great short film about the Unbreakable WS100 winner Geoff Roes
 :release_year: 2012
-:duration: 13.0 min
+:duration: 13 min
 :language: English
 :country: United States
 :img_main: images/slogging_to_the_top.main.jpg

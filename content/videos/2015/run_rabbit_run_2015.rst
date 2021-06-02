@@ -5,7 +5,7 @@
 :date: 2021-01-31
 :summary: At noon on September 18, 2015 a group of elite athletes (Hares) toed the starting line to begin a 100 mile race through and over the mountains...
 :release_year: 2015
-:duration: 19.0 min
+:duration: 19 min
 :language: English
 :country: United States
 :img_main: images/run_rabbit_run_2015.main.jpg

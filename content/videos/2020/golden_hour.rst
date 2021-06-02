@@ -5,7 +5,7 @@ Golden hour - The Best Hour in Ultrarunning
 :date: 2020-12-31
 :summary: The Western States 100-Mile Endurance Run is the world’s oldest 100-mile trail race. Starting in Olympic Valley, California it ends 100.2 miles...
 :release_year: 2020
-:duration: 17.0 min
+:duration: 17 min
 :language: English
 :country: United States
 :img_main: images/golden_hour.main.jpg

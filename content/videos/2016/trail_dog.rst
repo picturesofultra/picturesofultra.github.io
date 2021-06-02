@@ -5,7 +5,7 @@ Trail dog - Salomon Running TV S05E02
 :date: 2021-01-31
 :summary: We traveled to the small village of La Motte-d'Aveillans in the South East of France to meet and film with the winner of the #MyTrailDog...
 :release_year: 2016
-:duration: 4.0 min
+:duration: 4 min
 :language: English
 :country: United States
 :img_main: images/trail_dog.main.jpg

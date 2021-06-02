@@ -5,7 +5,7 @@ Tor des géants - My First 200 Miler in the Italian Alps
 :date: 2021-01-10
 :summary: The 330 km TOR Des Geants is a race in the Italian Alps. The course heads counter-clockwise on the Alta Via 2 along the south side of the Aosta...
 :release_year: 2020
-:duration: 44.0 min
+:duration: 44 min
 :language: English
 :country: Canada
 :img_main: images/tor_des_geants_pelletier.main.jpg

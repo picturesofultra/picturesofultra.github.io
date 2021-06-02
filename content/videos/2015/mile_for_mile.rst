@@ -5,7 +5,7 @@ Mile for Mile
 :date: 2021-01-03
 :summary: Ultrarunners Krissy Moehl, Jeff Browning and Luke Nelson run 106 miles through the newly opened Patagonia Park in Chile, to celebrate and highlight...
 :release_year: 2015
-:duration: 15.0 min
+:duration: 15 min
 :language: English
 :country: United States
 :img_main: images/mile_for_mile.main.jpg

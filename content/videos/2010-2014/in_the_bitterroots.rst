@@ -5,7 +5,7 @@ In The Bitterroots with Mike Foote
 :date: 2021-01-03
 :summary: Missoula's fastest yurt-dwelling ultrarunner shares his winter training.
 :release_year: 2012
-:duration: 9.0 min
+:duration: 9 min
 :language: English
 :country: United States
 :img_main: images/in_the_bitterroots.main.jpg

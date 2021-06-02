@@ -5,7 +5,7 @@ In the High Country
 :date: 2021-01-03
 :summary: In the High Country is an impressionistic mountain running film: a visual essay about a life in the mountains. It looks at running from a new...
 :release_year: 2013
-:duration: 35.0 min
+:duration: 35 min
 :language: English
 :country: United States
 :img_main: images/in_the_high_country.main.jpg

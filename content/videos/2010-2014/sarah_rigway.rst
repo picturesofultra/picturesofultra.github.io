@@ -5,7 +5,7 @@ Sarah Ridgway - Mountain runner
 :date: 2021-01-03
 :summary: Sarah Ridgway is a Welsh international runner specialising in mountainous terrain. Her love of gnarly conditions helped her secure the woman’s...
 :release_year: 2013
-:duration: 3.0 min
+:duration: 3 min
 :language: English
 :country: United Kingdom
 :img_main: images/sarah_rigway.main.jpg

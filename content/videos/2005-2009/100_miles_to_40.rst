@@ -5,7 +5,7 @@
 :date: 2021-01-03
 :summary: 100 Miles To 40 documents runner Michelle Halsne’s 2009 Western States attempt on her fortieth birthday
 :release_year: 2009
-:duration: 67.0 min
+:duration: 67 min
 :language: English
 :country: United States
 :img_main: images/100_miles_to_40.main.jpg

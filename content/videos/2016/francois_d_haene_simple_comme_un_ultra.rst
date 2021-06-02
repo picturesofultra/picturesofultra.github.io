@@ -5,7 +5,7 @@ François D’Haene, simple comme un ultra
 :date: 2020-12-31
 :summary: TV portrait of François d'Haene, ultra-runner but also a family man and wine maker.
 :release_year: 2016
-:duration: 55.0 min
+:duration: 55 min
 :language: French
 :country: France
 :img_main: images/francois_d_haene_simple_comme_un_ultra.main.jpg

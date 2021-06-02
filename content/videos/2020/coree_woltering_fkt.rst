@@ -5,7 +5,7 @@ Coree Woltering On His Ice Age Trail FKT and Diversity
 :date: 2021-01-09
 :summary: A very interesting TV feature on Coree Woltering and his FKT on the Ice Age Trail.
 :release_year: 2020
-:duration: 10.0 min
+:duration: 10 min
 :language: English
 :country: United States
 :img_main: images/coree_woltering_fkt.main.jpg

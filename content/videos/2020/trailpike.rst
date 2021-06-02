@@ -5,7 +5,7 @@ Trailpike triology
 :date: 2021-01-06
 :summary: A linked series of 3 short films recognising the 3 running legends who have given their names to iconic running challenges in the Lake District....
 :release_year: 2020
-:duration: 12.0 min
+:duration: 12 min
 :language: English
 :country: United Kingdom
 :img_main: images/trailpike.main.jpg

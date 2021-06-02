@@ -5,7 +5,7 @@ The worlds' highest running race - 222km
 :date: 2020-12-31
 :summary: Lisa Tamati takes you on a Himalayan adventure. The worlds' highest running race - known as La Ultra - The High is a 222km non stop running race...
 :release_year: 2013
-:duration: 52.0 min
+:duration: 52 min
 :language: English
 :img_main: images/the_world_s_highest_race.main.jpg
 :img_thumb: images/the_world_s_highest_race.thumb.jpg

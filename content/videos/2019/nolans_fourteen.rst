@@ -5,7 +5,7 @@ Nolan's Fourteen
 :date: 2021-01-17
 :summary: BD Athlete Joe Grant was looking for an experience. He wanted it to be hard, and he wanted to push himself to “that edge” where he’d have to make...
 :release_year: 2019
-:duration: 5.0 min
+:duration: 5 min
 :language: English
 :country: United States
 :img_main: images/nolans_fourteen.main.jpg

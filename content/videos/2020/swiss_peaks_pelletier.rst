@@ -5,7 +5,7 @@ Swiss Peaks 360k - Racing for 5 Days in the Alps
 :date: 2021-01-10
 :summary: The SwissPeaks 360k is a trail running race that travels more than 360 km (224 miles) across the Swiss Alps, climbing over 26,000 metres (87,000...
 :release_year: 2020
-:duration: 33.0 min
+:duration: 33 min
 :language: English
 :country: Canada
 :img_main: images/swiss_peaks_pelletier.main.jpg

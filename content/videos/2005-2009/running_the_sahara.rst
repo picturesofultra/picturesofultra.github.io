@@ -5,7 +5,7 @@ Running the Sahara
 :date: 2020-12-31
 :summary: This inspirational film chronicles three ultra marathoners' attempt to run the entire length of Africa's Sahara Desert.
 :release_year: 2007
-:duration: 103.0 min
+:duration: 103 min
 :language: English
 :country: United States
 :img_main: images/running_the_sahara.main.jpg

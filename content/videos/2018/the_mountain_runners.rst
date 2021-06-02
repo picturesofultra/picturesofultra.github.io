@@ -5,7 +5,7 @@ The mountain runners
 :date: 2021-01-09
 :summary: The Mountain Runners' is the Emmy-Nominated, true story of America's first adventure race. First held in 1911, the race pit a stripped-down steam...
 :release_year: 2018
-:duration: 87.0 min
+:duration: 87 min
 :language: English
 :country: United States
 :img_main: images/the_mountain_runners.main.jpg

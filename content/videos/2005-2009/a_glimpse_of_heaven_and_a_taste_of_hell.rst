@@ -5,7 +5,7 @@ A Glimpse of Heaven and A Taste of Hell
 :date: 2020-12-31
 :summary: Here you will get a chance to see what the 400 entrants from around the world experienced when competing in an ultra distance endurance run on the...
 :release_year: 2008
-:duration: 56.0 min
+:duration: 56 min
 :language: English
 :country: United States
 :img_main: images/a_glimpse_of_heaven_and_a_taste_of_hell.main.jpg

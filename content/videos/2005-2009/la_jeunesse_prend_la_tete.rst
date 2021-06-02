@@ -5,7 +5,7 @@ La jeunesse prend la tête
 :date: 2020-12-31
 :summary: Short tv documentary on the 2008 edition of UTMB, the first edition won by a 21 year old Kilian Jornet. This films also depicts the adventure of...
 :release_year: 2008
-:duration: 45.0 min
+:duration: 45 min
 :language: French
 :country: France
 :img_main: images/la_jeunesse_prend_la_tete.main.jpg

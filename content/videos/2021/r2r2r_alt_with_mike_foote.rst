@@ -5,7 +5,7 @@ r2r2r alt with Mike Foote
 :date: 2021-01-22
 :summary: The “r2r2r alt” route follows the rugged and remote South and North Bass trails about 30 miles downriver from the popular Kaibab and Bright Angel...
 :release_year: 2021
-:duration: 6.0 min
+:duration: 6 min
 :language: English
 :country: United States
 :img_main: images/r2r2r_alt_with_mike_foote.main.jpg

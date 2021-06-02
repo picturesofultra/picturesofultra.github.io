@@ -5,7 +5,7 @@ Impressions of Hardrock
 :date: 2021-01-04
 :summary: There are so many stories at the Hardrock 100 Endurance Run, but the grandeur of the mountains is an incredible tale in and of itself. Enjoy the...
 :release_year: 2020
-:duration: 8.0 min
+:duration: 8 min
 :language: English
 :country: United States
 :img_main: images/impressions_of_hardrock.main.jpg
