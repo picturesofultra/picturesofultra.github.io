@@ -17,6 +17,6 @@ Chasing Walmsley | Grand Canyon Rim 2 Rim 2 Rim record
 :people: Jim Walmsley
 :production: Run Steep Get High
 :direction: Jamil Coury
-:tags: Jim Walmsley
+:tags: Jim Walmsley, Run Steep Get High, Jamil Coury
 
 On October 4, 2016 Jim Walmsley broke the Grand Canyon Rim 2 Rim 2 Rim record of running from the South to North Rim of Grand Canyon and back. Jim runs a 5:55:20 which is the first ever sub 6 hour time for this route. Here we follow him for the 2.5 mile descent on the North Kaibab trail half way through his historic run.

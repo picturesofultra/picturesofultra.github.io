@@ -13,6 +13,7 @@ WONDERLAND: Gary Robbins' FKT around Mount Rainier
 :player_vid: RH4Zq6j0hZQ
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=RH4Zq6j0hZQ
+:events: Wonderland Trail
 :people: Gary Robbins
 :production: Pacer Films
 :direction: Ethan Newberry

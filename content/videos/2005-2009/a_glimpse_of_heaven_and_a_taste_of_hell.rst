@@ -13,9 +13,10 @@ A Glimpse of Heaven and A Taste of Hell
 :player_vid: MBVH63yoMpc
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=MBVH63yoMpc
-:events: Tahoe Rim Trail Endurance Runs
+:events: Tahoe 200
 :production: H&A Productions
 :direction: Tyler Bourns
+:tags: Tahoe 200
 
 Here you will get a chance to see what the 400 entrants from around the world experienced when competing in an ultra distance endurance run on the world famous Tahoe Rim Trail. Athletes were able to choose from a 50K, 50 miler, or the exhausting 100-Mile National Championship Event. Hosted by Kelly Quinn and told by the participants and volunteers you will discover both the story of ultra running as well as the colorful history of this event. 
 

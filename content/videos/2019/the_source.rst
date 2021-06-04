@@ -13,11 +13,11 @@ The source
 :player_vid: DQSiygnDm-U
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=DQSiygnDm-U
-:events: Tahoe 200 Endurance Run
+:events: Tahoe 200
 :people: Courtney Dauwalter
 :production: Dream Lenz Media
 :direction: Tim HIghman, Carrie HIghman
-:tags: Courtney Dauwalter
+:tags: Tahoe 200, Courtney Dauwalter
 
 The Source is a documentary film that explores elite ultra runner Courtney Dauwalter's source of will. How does the candy-loving, beer drinking athlete crush 200+ mile races, in some cases, beating all the men and the women? 
 
