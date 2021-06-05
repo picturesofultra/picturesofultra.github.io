@@ -15,7 +15,7 @@ tend to vanish from the web once their initial release campaign is over (if ther
 *Pictures of Ultra* aims to keep those films accessible for the viewing pleasure of running fanatics everywhere.
 
 Do you think something is missing in Pictures of Ultra ?
-**Thanks for telling me about it** through twitter `@picturesofultra <https://twitter.com/trailordie>`_
+**Thanks for telling me about it** through twitter `@trailordie <https://twitter.com/trailordie>`_
 
 Before doing so, here is informations on what kind of films *Pictures of Ultra indexes*.
 
@@ -37,5 +37,5 @@ What does belong :
 
 - Anything ultra-running related that seems to still be worth watching a few years/decades for now
 
-If in doubt, suggest it anyway : `@picturesofultra <https://twitter.com/trailordie>`_
+If in doubt, suggest it anyway : `@trailordie <https://twitter.com/trailordie>`_
 

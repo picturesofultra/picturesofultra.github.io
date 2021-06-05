@@ -1,5 +1,5 @@
-The most beautifull thing
-#########################
+The Most Beautiful Thing
+########################
 
 :slug: the-most-beautifull-thing
 :date: 2021-01-15
@@ -14,8 +14,7 @@ The most beautifull thing
 :player_type: vimeo
 :player_url: https://vimeo.com/71176836
 :link_official: http://lloydbelchervisuals.com/project/tmbt-sabah/
-:events: The most beautifull thing
-:sponsors: The most beautifull thing
+:events: The Most Beautiful Thing
 :production: Lloyd Belcher Visuals
 :direction: Lloyd Belcher
 :tags: Lloyd Belcher Visuals, Lloyd Belcher

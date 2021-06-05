@@ -16,9 +16,8 @@ Get off the road (ep 2)
 :link_official: https://pacerfilms.tv/portfolio/5-peaks-ambassador-james-marshall/
 :events: 5 Peaks Trail Running Series
 :people: Solana Klassen
-:sponsors: 5 Peaks Trail Running Series
 :production: Pacer Films
 :direction: Jeff Pelletier
-:tags: 5 Peaks Trail Running Series, 5 Peaks Trail Running Series, Pacer Films, Jeff Pelletier
+:tags: 5 Peaks Trail Running Series, Pacer Films, Jeff Pelletier
 
 Vancouver trail runner Solana Klassen has always loved 5 Peaks Trail Running Series. A lot of her friends were interested in trail running but were afraid of hitting the trails on their own. She decided to start a women's only trail running group, partnering with 5 Peaks as a sponsor.

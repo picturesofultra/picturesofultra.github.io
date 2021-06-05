@@ -16,9 +16,8 @@ Get off the road (ep 1)
 :link_official: https://pacerfilms.tv/portfolio/5-peaks-ambassador-james-marshall/
 :events: 5 Peaks Trail Running Series
 :people: James Marshall
-:sponsors: 5 Peaks Trail Running Series
 :production: Pacer Films
 :direction: Jeff Pelletier
-:tags: 5 Peaks Trail Running Series, 5 Peaks Trail Running Series, Pacer Films, Jeff Pelletier
+:tags: 5 Peaks Trail Running Series, Pacer Films, Jeff Pelletier
 
 When Vancouver trail runner James Marshall decided he wanted a break from pounding the pavement he found the 5 Peaks Trails Running Series and never looked back.
