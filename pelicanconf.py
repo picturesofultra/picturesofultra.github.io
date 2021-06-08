@@ -11,6 +11,8 @@ LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = True
 AUTHOR = 'Pictures Of Ultra'
 SITENAME = 'Pictures of Ultra'
+SITEPITCH = 'An opinionated index of documentary films about running'
+SITE_DESCRIPTION = 'More that 300 references on films about ultrarunning and trailrunning, From the 90\'s to today, from elite to back of the pack, if it was filmed, you will find it here.'
 SITEURL = ''
 
 PATH = 'content'
@@ -62,9 +64,9 @@ INDEX_SAVE_AS = 'videos.html'
 THEME = 'themes/runningimages'
 THEME_CATEGORIES = {
     'x-1999':    { 'title': 'before 1999'},
-    '2000-2004': { 'title': 'from 2000 to 2005' },
-    '2005-2009': { 'title': 'from 2005 to 2009' },
-    '2010-2014': { 'title': 'from 2010 to 2014' },
+    '2000-2004': { 'title': '2000 to 2005' },
+    '2005-2009': { 'title': '2005 to 2009' },
+    '2010-2014': { 'title': '2010 to 2014' },
     '2015': { 'title': '2015' },
     '2016': { 'title': '2016' },
     '2017': { 'title': '2017' },

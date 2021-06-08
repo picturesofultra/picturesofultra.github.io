@@ -3,7 +3,7 @@ Massanutten: Two Runners, 100 Miles
 
 :slug: massanutten
 :date: 2021-01-03
-:summary: "Massanutten: Two Runners, 100 Miles" is a documentary filmed at the 2006 running of the Massanutten Mountain Trail 100 (MMT) ultramarathon, near...
+:summary: Massanutten: Two Runners, 100 Miles is a documentary filmed at the 2006 running of the Massanutten Mountain Trail 100 (MMT) ultramarathon, near...
 :release_year: 2007
 :duration: 
 :language: English

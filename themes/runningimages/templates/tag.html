@@ -1,7 +1,6 @@
 {% extends "index.html" %}
 
 {% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+{% block description%}Check out all movies tagged with {{ tag }} in {{ SITENAME }}, {{ SITEPITCH }}.{% endblock %}
 
-{% block content_title %}
-Movies tagged with {{ tag }}
-{% endblock %}
+{% block content_title %}Movies tagged with {{ tag }}{% endblock %}

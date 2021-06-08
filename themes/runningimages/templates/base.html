@@ -2,12 +2,18 @@
 <html lang="{{ DEFAULT_LANG }}">
 <head>
         {% block head %}
-        <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+        <title>{% block title %}{{ SITENAME }}  - {{ SITEPITCH }}{% endblock title %}</title>
         <meta charset="utf-8" />
-        <meta name="generator" content="Pelican" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="description" content="{% block description %}{{ SITE_DESCRIPTION }}{% endblock description %}" />
 
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
+        <meta property="og:title" content="{{ self.title() }}" />
+        <meta property="og:description" content="{{ self.description() }}" />
+
+        <meta name="twitter:title" content="{{ self.title() }}" />
+        <meta name="twitter:description" content="{{ self.description() }}" />
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" />
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/runningimages.css" />
 
         {% if FEED_ALL_ATOM %}

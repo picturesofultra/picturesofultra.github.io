@@ -1,8 +1,9 @@
 {% extends "index.html" %}
 
-{% block title %}Movies released {{ THEME_CATEGORIES['title'] }} - {{ SITENAME }}{% endblock %}
+{% block title %}Movies from {{ THEME_CATEGORIES[category]['title'] }} - {{ SITENAME }}{% endblock %}
+{% block description %}Check out all movies from {{ THEME_CATEGORIES[category]['title'] }} in {{ SITENAME }}, , {{ SITEPITCH }}.{% endblock %}
 
 {% block content_title %}
-Released {{ THEME_CATEGORIES[category]['title'] }}
+Movies from {{ THEME_CATEGORIES[category]['title'] }}
 {% endblock %}
 

@@ -3,7 +3,7 @@ Travailen
 
 :slug: travailen
 :date: 2021-01-31
-:summary: "Travailen" follows Ryan Sandes and Ryno Griesel’s on their attempt of the Drakensberg Grand Traverse (DGT)
+:summary: Travailen follows Ryan Sandes and Ryno Griesel’s on their attempt of the Drakensberg Grand Traverse (DGT)
 :release_year: 2015
 :duration: 
 :language: English

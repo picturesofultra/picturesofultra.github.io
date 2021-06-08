@@ -3,7 +3,7 @@ Running gold | Great race series
 
 :slug: running-gold
 :date: 2021-01-15
-:summary: One of the toughest races "The Montane Spine" took place in midwinter England. It is a non-stop 420km (268 miles) race and the competitors must...
+:summary: One of the toughest races The Montane Spine took place in midwinter England. It is a non-stop 420km (268 miles) race and the competitors must...
 :release_year: 2020
 :duration: 50 min
 :language: English

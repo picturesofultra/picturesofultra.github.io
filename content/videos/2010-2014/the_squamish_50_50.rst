@@ -3,7 +3,7 @@ The Squamish 50/50
 
 :slug: the-squamish-50-50
 :date: 2021-01-03
-:summary: "In August 2013, I ran the Squamish 50 mile ultramarathon. It was the hardest race I had run and it destroyed my body and mind. Rather than back...
+:summary: In August 2013, I ran the Squamish 50 mile ultramarathon. It was the hardest race I had run and it destroyed my body and mind. Rather than back...
 :release_year: 2014
 :duration: 28 min
 :language: English

@@ -3,7 +3,7 @@
 
 :slug: 15-hours-amelia-boone
 :date: 2020-12-31
-:summary: "The Struggle Ends When the Gratitude Begins" - a quote Obstacle Course Racing Champion Amelia Boone leaned on when at the zenith of her endurance...
+:summary: The Struggle Ends When the Gratitude Begins - a Obstacle Course Racing Champion Amelia Boone leaned on when at the zenith of her endurance career...
 :release_year: 2018
 :duration: 9 min
 :language: English
@@ -19,4 +19,4 @@
 :direction: Billy Yang
 :tags: Western States 100, Billy Yang Films, Billy Yang
 
-"The Struggle Ends When the Gratitude Begins" - a quote Obstacle Course Racing Champion Amelia Boone leaned on when at the zenith of her endurance career in 2016, a stress fracture in her femur would sideline her for the next two years. Fast forward to February 3, 2018 as she toed the line of her first ultramarathon back at the Sean O'Brien 100K, Amelia reflects back on being injured and her newfound gratitude and perspective on running.
+"The Struggle Ends When the Gratitude Begins" - a Obstacle Course Racing Champion Amelia Boone leaned on when at the zenith of her endurance career in 2016, a stress fracture in her femur would sideline her for the next two years. Fast forward to February 3, 2018 as she toed the line of her first ultramarathon back at the Sean O'Brien 100K, Amelia reflects back on being injured and her newfound gratitude and perspective on running.

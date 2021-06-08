@@ -101,8 +101,9 @@ def video_build_metadata(
     metas["slug"] = video["slug_web"]
     metas["date"] = video["created"].strftime("%Y-%m-%d")
     # metas['category'] = video['category']
+    # Remove quotes so not to fuck up the HTML
     metas["summary"] = textwrap.shorten(
-        video["description"], width=SUMMARY_LENGTH, placeholder="..."
+        video["description"].replace('"', ''), width=SUMMARY_LENGTH, placeholder="..."
     )
     metas["release_year"] = video["release_year"]
     if video["duration"] is not np.NaN:

@@ -1,13 +1,10 @@
 {% extends "base.html" %}
 
-{% block title %}
-{{ article.title|striptags  }}{% if article.keywords %} - {{ article.keywords|striptags }}{% endif %} - {{ SITENAME }}
-{% endblock %}
-
+{% block title %}{{ article.title | striptags  }} - {{ SITENAME }}{% endblock %}
+{% block description%}{{ article.summary | striptags }}{% endblock %}
 
 {% block head %}
   {{ super() }}
-    <meta name="description" content="{{article.summary | striptags}}" />
   {% for tag in article.tags %}
     <meta name="tags" content="{{tag | striptags}}" />
   {% endfor %}

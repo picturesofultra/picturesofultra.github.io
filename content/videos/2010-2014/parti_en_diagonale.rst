@@ -3,7 +3,7 @@ Parti en diagonale (Grand Raid 2013)
 
 :slug: parti-en-diagonale
 :date: 2020-12-31
-:summary: "La Diagonale des fous. Son nom dit tout ou presque. Cet ultra-trail tropical qui emprunte depuis plus de 20 ans le cadre unique et magique de...
+:summary: La Diagonale des fous. Son nom dit tout ou presque. Cet ultra-trail tropical qui emprunte depuis plus de 20 ans le cadre unique et magique de l'île...
 :release_year: 2013
 :duration: 13 min
 :language: French
