@@ -13,7 +13,7 @@
 :player_vid: K3vGAZUIMYE
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=K3vGAZUIMYE
-:people: Jason Schlarb, Nikki Kimball, Timothy Olson
+:people: Jared Hazen, Jason Schlarb, Nikki Kimball, Timothy Olson
 :tags: Nikki Kimball, Timothy Olson
 
 At noon on September 18, 2015 a group of elite athletes (Hares) toed the starting line to begin a 100 mile race through and over the mountains surrounding Steamboat Springs, CO. 

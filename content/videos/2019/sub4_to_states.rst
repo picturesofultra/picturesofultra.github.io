@@ -13,10 +13,10 @@ Sub-4 to States
 :player_vid: IzTCeT1yqaM
 :player_type: youtube
 :player_url: https://www.youtube.com/watch?v=IzTCeT1yqaM
-:events: ws
+:events: Western States 100
 :people: David Roche, Matt Daniels
 :production: Training for Ultra
 :direction: Rob Steger
-:tags: Training for Ultra, Rob Steger
+:tags: Western States 100, Training for Ultra, Rob Steger
 
 In his 100-mile debut, Daniels placed fourth at WSER in a record-breaking year. So what happens when a sub-4 minute-mile athlete takes on the oldest and most prestigious 100-mile trail race in the world?
