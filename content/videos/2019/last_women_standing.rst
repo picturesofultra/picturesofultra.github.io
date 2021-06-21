@@ -17,8 +17,8 @@ Last Women Standing
 :people: Nicky Spinks
 :sponsors: Inov-8
 :production: Summit Fever Media
-:direction: Matt Green, Elie Green
-:tags: The Barkley Marathons, Nicky Spinks, Inov-8, Summit Fever Media, Matt Green, Elie Green
+:direction: Matt Green, Elie West
+:tags: The Barkley Marathons, Nicky Spinks, Inov-8, Summit Fever Media, Matt Green, Elie West
 
 In 2019, inov-8 ambassador and breast cancer survivor Nicky Spinks attempted to become the first-ever woman to complete The Barkley Marathons - the world's toughest ultra-running race. 
 

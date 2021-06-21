@@ -18,6 +18,6 @@ Totally FKT
 :people: John Kelly, Damian Hall
 :production: Summit Fever Media
 :direction: Matt Green, Elie Green
-:tags: Damian Hall, Summit Fever Media, Matt Green, Elie Green
+:tags: Damian Hall, Summit Fever Media, Matt Green
 
 Totally FKT is a documentary centred around two attempts on Pennine Way fastest known time (FKT). After 31 years the record is finally broken on this notorious long distance trail in Britain. Featuring athletes John Kelly and Damian Hall with their dedicated crews and pacers as they take on the most challenging task of their sporting careers to date.
