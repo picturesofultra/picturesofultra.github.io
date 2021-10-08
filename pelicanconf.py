@@ -5,7 +5,7 @@ import os
 import json
 
 PLUGIN_PATHS = ['picturesofultra/plugins']
-PLUGINS = ['runningimages']
+PLUGINS = ['runningimages', 'sitemap']
 
 LOAD_CONTENT_CACHE = False
 DELETE_OUTPUT_DIRECTORY = True
@@ -82,4 +82,23 @@ TAG_TYPES = sitemeta['tags']
 
 # Github custom domain : https://docs.getpelican.com/en/latest/tips.html#copy-static-files-to-the-root-of-your-site
 STATIC_PATHS = ['images', 'extra/CNAME', 'extra/manifest.json', 'extra/browserconfig.xml']
-EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
+EXTRA_PATH_METADATA = {
+    'extra/CNAME': {'path': 'CNAME'},
+    'extra/manifest.json': {'path': 'manifest.json'},
+    'extra/browserconfig.xml': {'path': 'browserconfig.xml'}
+}
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
+

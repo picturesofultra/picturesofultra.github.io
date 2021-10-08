@@ -184,7 +184,7 @@ dev = ["flake8", "markdown", "twine"]
 
 [[package]]
 name = "google-auth"
-version = "2.2.1"
+version = "2.3.0"
 description = "Google Authentication Library"
 category = "main"
 optional = false
@@ -488,6 +488,20 @@ unidecode = ">=1.1"
 markdown = ["markdown (>=3.1)"]
 
 [[package]]
+name = "pelican-sitemap"
+version = "1.0.2"
+description = "Pelican plugin to generate sitemap in plain-text or XML format"
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[package.dependencies]
+pelican = ">=4.5,<5.0"
+
+[package.extras]
+markdown = ["markdown (>=3.2.2,<4.0.0)"]
+
+[[package]]
 name = "pexpect"
 version = "4.8.0"
 description = "Pexpect allows easy control of interactive console applications."
@@ -787,7 +801,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "c4e83caa57730d2407d4472f6f2d3f999cac3c37185581fc546b725a71553022"
+content-hash = "c390c38b4d884f8d17e929302335ff6fdc4fcd040b4ac6642c1f21c3ebdb67d0"
 
 [metadata.files]
 appdirs = [
@@ -859,8 +873,8 @@ ghp-import = [
     {file = "ghp-import-1.1.0.tar.gz", hash = "sha256:c22a9ce10c37753e2688d164d765a700dae4b8d79fa6db0a2c3132ba7881894f"},
 ]
 google-auth = [
-    {file = "google-auth-2.2.1.tar.gz", hash = "sha256:6dc8173abd50f25b6e62fc5b42802c96fc7cd9deb9bfeeb10a79f5606225cdf4"},
-    {file = "google_auth-2.2.1-py2.py3-none-any.whl", hash = "sha256:2a92b485afed5292946b324e91fcbe03db277ee4cb64c998c6cfa66d4af01dee"},
+    {file = "google-auth-2.3.0.tar.gz", hash = "sha256:2800f6dfad29c6ced5faf9ca0c38ea8ba1ebe2559b10c029bd021e3de3301627"},
+    {file = "google_auth-2.3.0-py2.py3-none-any.whl", hash = "sha256:91892727c09cf5d090c391936a8e67ef5b9a9794c2f426b3d0ceedddbcc0ef50"},
 ]
 google-auth-oauthlib = [
     {file = "google-auth-oauthlib-0.4.6.tar.gz", hash = "sha256:a90a072f6993f2c327067bf65270046384cda5a8ecb20b94ea9a687f1f233a7a"},
@@ -1058,6 +1072,10 @@ pathspec = [
 pelican = [
     {file = "pelican-4.7.0-py3-none-any.whl", hash = "sha256:bac21dc5bc0c311069d138cfb05e03c23e8eb22cfb53a8e7aa3cf2089d56058b"},
     {file = "pelican-4.7.0.tar.gz", hash = "sha256:ad7538433d017db4e9e4de5893a86cfa1237c9a743dac71f38ccd5f2e95f3a3c"},
+]
+pelican-sitemap = [
+    {file = "pelican-sitemap-1.0.2.tar.gz", hash = "sha256:464052dbbf3daa7183c531c486e3db872f8f74b5fcc7aa25743b7c9aefbb359a"},
+    {file = "pelican_sitemap-1.0.2-py3-none-any.whl", hash = "sha256:ec930ee8182d4b905a4e5732d0b87ad84ee62ee1830b42d1b1f82bcac8e12f2b"},
 ]
 pexpect = [
     {file = "pexpect-4.8.0-py2.py3-none-any.whl", hash = "sha256:0b48a55dcb3c05f3329815901ea4fc1537514d6ba867a152b581d69ae3710937"},
