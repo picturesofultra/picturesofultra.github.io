@@ -17,6 +17,6 @@ The Last Mile - Kaytlyn Gerbin and The 2019 Western States 100
 :people: Kaytlyn Gerbin
 :production: The Ginger Runner
 :direction: Ethan Newberry
-:tags: Western States 100, The Ginger Runner, Ethan Newberry
+:tags: Western States 100, Kaytlyn Gerbin, The Ginger Runner, Ethan Newberry
 
 After finishing 4th female at Western States in 2017 and 2nd female behind Courtney Dauwalter at Western States in 2018, ultrarunner & adventurer, Kaytlyn Gerbin, returned in 2019 in hopes of improving her finish. After an increasingly grueling day in the notorious California high country and 99 miles of all-out mountain running, her race came down to The Last Mile.

@@ -4,6 +4,7 @@ import re
 import urllib.parse as urlparse
 from typing import Any, Dict, List, Optional, Union
 
+import filetype
 import numpy as np
 import pyyoutube
 import requests
@@ -29,46 +30,42 @@ def vimeo_get_video(urldata: Dict[str, str]) -> Dict[str, Any]:
     return v.get(f'https://api.vimeo.com/videos/{urldata["vid"]}').json()  # type: ignore[no-any-return]
 
 
-def parse_stream_url(video_id: Union[int, str], ss: str) -> Optional[Dict[str, str]]:
+def parse_stream_url(ss: str) -> Optional[Dict[str, str]]:
     out = None
-    try:
-        url = urlparse.urlparse(ss)
-        if "youtube" in url.netloc:
-            out = {
-                "type": "youtube",
-                "vid": urlparse.parse_qs(url.query)["v"][0],
-                "url": url.geturl()
-            }
-        elif "vimeo" in url.netloc and 'ondemand' not in url.path:
-            out = {
-                "type": "vimeo",
-                "vid": url.path.split("/")[-1],
-                "url": url.geturl()
-            }
-        elif "dailymotion" in url.netloc:
-            out = {
-                "type": "dailymotion",
-                "vid": url.path.split("/")[-1],
-                "url": url.geturl()
-            }
-    except Exception as err:
-        raise RuntimeError(f"Invalid URL {ss} for video id={video_id}")
+
+    url = urlparse.urlparse(ss)
+    if "youtube" in url.netloc:
+        out = {
+            "type": "youtube",
+            "vid": urlparse.parse_qs(url.query)["v"][0],
+            "url": url.geturl()
+        }
+    elif "vimeo" in url.netloc:
+        vid = url.path.split("/")[-1]
+        if vid.isdigit():
+            out = { "type": "vimeo", "vid": vid, "url": url.geturl() }
+    elif "dailymotion" in url.netloc:
+        out = {
+            "type": "dailymotion",
+            "vid": url.path.split("/")[-1],
+            "url": url.geturl()
+        }
 
     return out
 
 
 def download_image(url: str, basepath: str, filename: str) -> str:
-    # Extract extension:
-    ext = urlparse.urlparse(url).path.split("/")[-1].split(".")[-1]
-    if ext not in IMG_FORMATS:
-        raise RuntimeError(f'Unexpected img extension for url "{url}"')
-    fname = f"{filename}.{ext}"
     r = requests.get(url, timeout=2)
-    if r.status_code == 200:
-        with open(os.path.join(basepath, fname), "wb") as f:
-            f.write(r.content)
-    else:
-        raise RuntimeError(f'Unexpected response "{r.status_code}" from "{url}"')
+    r.raise_for_status()
+
+    ft = filetype.guess(r.content)
+    if ft.extension not in IMG_FORMATS:
+        raise RuntimeError(f'Unexpected img extension "{ft.extension}" for url "{url}"')
+
+    fname = f"{filename}.{ft.extension}"
+    with open(os.path.join(basepath, fname), "wb") as f:
+        f.write(r.content)
+
     return fname
 
 
@@ -81,7 +78,12 @@ def images_get_from_links(
     for key in ["link_stream", "link_trailer"]:
         if video[key] is np.NaN:
             continue
-        urldata = parse_stream_url(video["id"], video[key])
+
+        try:
+            urldata = parse_stream_url(video[key])
+        except Exception as err:
+            raise RuntimeError(f"Invalid URL {video[key]} for video id={video['id']}")
+
         if urldata is None:
             continue
         if urldata["type"] == "youtube":
@@ -121,13 +123,17 @@ def images_get_from_links(
 
     if v_images is not None:
         # Download the img files
-        v_images["thumb"] = download_image(
-            v_images["thumb"], img_basepath, f'{video["slug_fs"]}.thumb'
-        )
-        v_images["main"] = download_image(
-            v_images["main"], img_basepath, f'{video["slug_fs"]}.main'
-        )
-        print(f'Downloaded images for video {video["slug_fs"]}[{video["id"]}]')
+        try:
+            v_images["thumb"] = download_image(
+                v_images["thumb"], img_basepath, f'{video["slug_fs"]}.thumb'
+            )
+            v_images["main"] = download_image(
+                v_images["main"], img_basepath, f'{video["slug_fs"]}.main'
+            )
+            print(f'Downloaded images for video {video["slug_fs"]}[{video["id"]}]')
+        except:
+            print(f'Failed image download for {video}')
+            raise
     else:
         print(
             f'Unable to download images for video {video["slug_fs"]}[{video["id"]}] using urls: {video["link_trailer"]}, {video["link_stream"]}'

@@ -16,6 +16,8 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css" />
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/runningimages.css" />
 
+        {% include 'favicons.html' %}
+
         {% if FEED_ALL_ATOM %}
         <link href="{{ FEED_DOMAIN }}/{% if FEED_ALL_ATOM_URL %}{{ FEED_ALL_ATOM_URL }}{% else %}{{ FEED_ALL_ATOM }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
         {% endif %}
@@ -85,5 +87,6 @@
                 <p>Made with <a href="https://blog.getpelican.com/">Pelican</a>. Hosted and served by <a href="https://github.com">Github.com</a></p>
         </div>
     </footer>
+{% include 'analytics.html' %}
 </body>
 </html>

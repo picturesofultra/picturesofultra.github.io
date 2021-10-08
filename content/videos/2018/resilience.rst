@@ -8,6 +8,11 @@ Resilience
 :duration: 61 min
 :language: English
 :country: United Kingdom
+:img_main: images/resilience.main.jpg
+:img_thumb: images/resilience.thumb.jpg
+:player_vid: 364012255
+:player_type: vimeo
+:player_url: https://vimeo.com/ondemand/spineraceresilience/364012255
 :link_official: https://www.reelhouse.org/summitfevermedia/resilience/pre-order-resilience
 :events: Spine Race
 :production: Summit Fever Media

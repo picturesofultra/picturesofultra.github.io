@@ -17,6 +17,7 @@ Via Alpina
 :events: Via Alpina
 :people: Guillaume Arthus
 :production: Peignée Verticale
+:tags: Peignée Verticale
 
 Discover the 2650K with 150 000m of elevation of the Via Alpina through landscapes as diffult as beautiful.
 The documentary tell the tale of the self supported crossing by Guillaume ARTHUS in 44 days. A breathtaking adventure.

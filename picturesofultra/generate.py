@@ -53,7 +53,7 @@ def media_metas(video: Dict[str, Any]) -> Dict[str, str]:
     def qualify_stream(link: Union[float, str]) -> Dict[str, Any]:
         if link is np.NaN:
             return {"type": "no_link"}
-        linfo = parse_stream_url(link, link)
+        linfo = parse_stream_url(link)
         if linfo is None:
             return {"type": "unsupported"}
         return linfo

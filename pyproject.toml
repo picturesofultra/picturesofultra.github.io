@@ -17,6 +17,7 @@ PyVimeo = "^1.1.0"
 python-youtube = "^0.6.4"
 python-dateutil = "^2.8.1"
 pytz = "^2020.5"
+filetype = "^1.0.8"
 
 [tool.poetry.dev-dependencies]
 black = "^20.8b1"
