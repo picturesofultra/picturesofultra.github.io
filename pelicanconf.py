@@ -81,11 +81,12 @@ with open('sitemeta.json') as f:
 TAG_TYPES = sitemeta['tags']
 
 # Github custom domain : https://docs.getpelican.com/en/latest/tips.html#copy-static-files-to-the-root-of-your-site
-STATIC_PATHS = ['images', 'extra/CNAME', 'extra/manifest.json', 'extra/browserconfig.xml']
+STATIC_PATHS = ['images', 'extra', 'extra', 'extra', 'extra']
 EXTRA_PATH_METADATA = {
     'extra/CNAME': {'path': 'CNAME'},
     'extra/manifest.json': {'path': 'manifest.json'},
-    'extra/browserconfig.xml': {'path': 'browserconfig.xml'}
+    'extra/browserconfig.xml': {'path': 'browserconfig.xml'},
+    'extra/google0bdb78453461e14d.html': {'path': 'google0bdb78453461e14d.html'}
 }
 
 SITEMAP = {
